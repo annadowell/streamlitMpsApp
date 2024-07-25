@@ -1,0 +1,41 @@
+name: NewData
+
+on:
+  schedule:
+    - cron: "0 3 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  getdata:
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout repo
+        uses: actions/checkout@v4
+
+      - name: setup python
+        uses: actions/setup-python@v5
+        with:
+          python-version: 3.12
+
+      - name: install deps
+        run: |
+          pip install pandas
+          pip install requests
+      - name: execute python script
+        run: |
+          python scripts/newData.py
+
+      - name: commit changes
+        run: |
+          git config user.email "annadowell@gmail.com"
+          git config user.name "Anna Dowell"
+          git add MpsListNew.csv
+          git add InterestsNew.csv
+          git add QuestionsNew.csv
+          git commit -m 'refresh'
+          git push

@@ -5,10 +5,10 @@ def load_data(url):
     return data
 
 archive1 = 'https://raw.githubusercontent.com/annadowell/streamlitMpsApp/main/mpsList2019.csv'
-archiveMps = load_data(archive)
+archiveMps = load_data(archive1)
 
 new1 = 'https://raw.githubusercontent.com/annadowell/streamlitMpsApp/main/MpsListNew.csv'
-newMps = load_data(new)
+newMps = load_data(new1)
 
 Mpdataframes = [archiveMps, newMps]
 

@@ -7,7 +7,7 @@ def load_data(url):
 archive = 'https://raw.githubusercontent.com/annadowell/streamlitMpsApp/main/test.csv'
 test1 = load_data(archive)
 
-new = 'https://raw.githubusercontent.com/annadowell/streamlitMpsApp/main/test2.csv'
+new = 'https://raw.githubusercontent.com/annadowell/streamlitMpsApp/main/MpsListNew.csv'
 test2 = load_data(new)
 
 dataframes = [test1, test2]

@@ -4,15 +4,15 @@ def load_data(url):
     data = pd.read_csv(url)
     return data
 
-archive = 'https://raw.githubusercontent.com/annadowell/streamlitMpsApp/main/test.csv'
-test1 = load_data(archive)
+archive1 = 'https://raw.githubusercontent.com/annadowell/streamlitMpsApp/main/mpsList2019.csv'
+archiveMps = load_data(archive)
 
-new = 'https://raw.githubusercontent.com/annadowell/streamlitMpsApp/main/MpsListNew.csv'
-test2 = load_data(new)
+new1 = 'https://raw.githubusercontent.com/annadowell/streamlitMpsApp/main/MpsListNew.csv'
+newMps = load_data(new)
 
-dataframes = [test1, test2]
+Mpdataframes = [archiveMps, newMps]
 
-test3 = pd.concat(dataframes)
+CompiledMps = pd.concat(Mpdataframes)
 
 # Save the concatenated DataFrame to a CSV file
-test3.to_csv('test3.csv', index=False)
+CompiledMps.to_csv('CompiledMps.csv', index=False)

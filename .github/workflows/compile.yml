@@ -16,20 +16,23 @@ jobs:
     steps:
       - name: checkout repo
         uses: actions/checkout@v4
+
       - name: setup python
         uses: actions/setup-python@v5
         with:
           python-version: 3.12
+
       - name: install deps
         run: |
-          pip install requests
+          pip install pandas
+
       - name: execute python script
         run: |
-          python compile.py
-        working-directory: scripts
+          python scripts/compile.py
+
       - name: commit changes
         run: |
-          git config user.email "annafdowell@gmail.com"
+          git config user.email "annadowell@gmail.com"
           git config user.name "Anna Dowell"
           git add test3.csv
           git commit -m 'newData'

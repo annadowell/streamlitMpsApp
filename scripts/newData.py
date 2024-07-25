@@ -115,8 +115,9 @@ def CallingTheQuestions(id):
                     answeringName = req4.json()['value']['answeringBodyName']
                     date = req4.json()['value']['dateTabled']
                     answer = req4.json()['value']['answerText']
-
-                    small_written_list = [MemberID, questionAsked, date, answeringName, answer]
+                    #can only add this when i've done the work to update the archive datasets
+                    #small_written_list = [MemberID, questionAsked, date, answeringName, answer]
+                    small_written_list = [MemberID, questionAsked]
                     big_list_questions.append(small_written_list)
                 except KeyError as e:
                     print(f"Key error: {e} for entry {x}")

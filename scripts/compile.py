@@ -4,6 +4,7 @@ def load_data(url):
     data = pd.read_csv(url)
     return data
 
+#MPS
 archive1 = 'https://raw.githubusercontent.com/annadowell/streamlitMpsApp/main/mpsList2019.csv'
 archiveMps = load_data(archive1)
 
@@ -16,3 +17,33 @@ CompiledMps = pd.concat(Mpdataframes)
 
 # Save the concatenated DataFrame to a CSV file
 CompiledMps.to_csv('CompiledMps.csv', index=False)
+
+#INTERESTS
+
+archive2 = 'https://raw.githubusercontent.com/annadowell/streamlitMpsApp/main/mpsInterests2019.csv'
+archiveInterests = load_data(archive2)
+
+new2 = 'https://raw.githubusercontent.com/annadowell/streamlitMpsApp/main/InterestsNew.csv'
+newInterests = load_data(new2)
+
+Interestsdataframes = [archiveInterests, newInterests]
+
+CompiledInterests = pd.concat(Interestsdataframes)
+
+# Save the concatenated DataFrame to a CSV file
+CompiledInterests.to_csv('CompiledInterests.csv', index=False)
+
+#QUESTIONS
+
+archive3 = 'https://raw.githubusercontent.com/annadowell/streamlitMpsApp/main/mpsQuestions2019.csv'
+archiveQuestions = load_data(archive3)
+
+new3 = 'https://raw.githubusercontent.com/annadowell/streamlitMpsApp/main/QuestionsNew.csv'
+newQuestions = load_data(new3)
+
+Questionsdataframes = [archiveQuestions, newQuestions]
+
+CompiledQuestions = pd.concat(Questionsdataframes)
+
+# Save the concatenated DataFrame to a CSV file
+CompiledQuestions.to_csv('CompiledQuestions.csv', index=False)

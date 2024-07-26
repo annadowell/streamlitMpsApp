@@ -78,7 +78,7 @@ def CrossReferencing(keywords):
         big_relevant_list.append([id, name_value, party, MpsQs, MpsInterests])
 
     # turn this into a dataframe
-    found_members_df = pd.DataFrame(big_relevant_list, columns = [id', 'name', 'party', 'questions','interests'])
+    found_members_df = pd.DataFrame(big_relevant_list, columns = ['id', 'name', 'party', 'questions','interests'])
     st.write(found_members_df)
     
     buffer = io.BytesIO()

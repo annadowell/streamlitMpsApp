@@ -94,6 +94,10 @@ def CallingTheQuestions(id):
                     if MemberID and questionAsked and date:
                         small_list = [MemberID, questionAsked, date, answeringName, answer]
                         big_list_questions.append(small_list)
+                except KeyError as e:
+                    print(f"Key error: {e} for entry {x}")
+                except Exception as e:
+                    print(f"An error occurred: {e} for entry {x}")
         else:
             print(f"No 'Response' found for member ID {item}")
     else:

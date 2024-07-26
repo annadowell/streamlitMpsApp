@@ -2,6 +2,7 @@ import streamlit as st
 import pandas as pd
 #from streamlit_gsheets import GSheetsConnection
 import io
+import xlsxwriter
 
 def load_data(url):
     data = pd.read_csv(url)

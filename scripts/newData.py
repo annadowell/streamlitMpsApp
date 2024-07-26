@@ -5,6 +5,7 @@ MpsDataframeImproved = []
 MpsListImproved = []
 
 def callApiForId(x):
+    # this url  calls all members of the House of commons who were members after the twenty ninth of june twenty twenty four,  effectively this current Parliament
     urlmembers = f'https://members-api.parliament.uk/api/Members/Search?House=1&MembershipInDateRange.WasMemberOnOrAfter=2024-06-29T00%3A00%3A00&skip={x}&take=20'
     reqids = requests.get(urlmembers, headers=my_ua)
 

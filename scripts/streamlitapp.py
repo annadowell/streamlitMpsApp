@@ -7,31 +7,17 @@ def load_data(url):
     data = pd.read_csv(url)
     return data
 
-archive_questions_url = ('https://raw.githubusercontent.com/annadowell/streamlitMpsApp/main/mpsQuestions2019.csv')
+archive_questions_url = ('https://raw.githubusercontent.com/annadowell/streamlitMpsApp/main/CompiledQuestions.csv')
 dfquestions = load_data(archive_questions_url)
 #st.write(dfquestions)
 
-archive_interests_url = ('https://raw.githubusercontent.com/annadowell/streamlitMpsApp/main/mpsInterests2019.csv')
+archive_interests_url = ('https://raw.githubusercontent.com/annadowell/streamlitMpsApp/main/CompiledInterests.csv')
 dfinterests = load_data(archive_interests_url)
 #st.write(dfinterests)
 
-archive_mps_url = ('https://raw.githubusercontent.com/annadowell/streamlitMpsApp/main/mpsList2019.csv')
+archive_mps_url = ('https://raw.githubusercontent.com/annadowell/streamlitMpsApp/main/CompiledMps.csv')
 dfMpsDataframeImproved = load_data(archive_mps_url)
 #st.write(dfMpsDataframeImproved)
-
-
-archive = 'https://raw.githubusercontent.com/annadowell/streamlitMpsApp/main/test.csv'
-test1 = load_data(archive)
-
-new = 'https://raw.githubusercontent.com/annadowell/streamlitMpsApp/main/test2.csv'
-test2 = load_data(new)
-
-dataframes = [test1, test2]
-
-test3 = pd.concat(dataframes)
-st.write(test3)
-# Save the concatenated DataFrame to a CSV file
-#test3.to_csv('test3.csv', index=False)
 
 
 # FILTERING FOR THE EXCEL READ DATA
@@ -67,29 +53,32 @@ def CrossReferencing(keywords):
     for item in common_member_ids:
         name_value = dfMpsDataframeImproved.loc[dfMpsDataframeImproved['id'] == item, 'name'].values[0]
         id = item
-
+        party = dfMpsDataframeImproved.loc[dfMpsDataframeImproved['id'] == item, 'party'].values[0]
+        
         # making a dataframe of this specific mps questions
-        membersquestions = dfquestions.loc[dfquestions['id'] == item, 'question']
-        membersquestionsdf = pd.DataFrame(membersquestions, columns = ['question'])
+        membersquestions = dfquestions.loc[dfquestions['id'] == item]
+        membersquestionsdf = pd.DataFrame(membersquestions, columns = ['question', 'date','answeringMember', 'answer'])
 
         # now filtering out all the questions this mp has asked for the ones which were flagged as including the keyword
         relevant_questions = membersquestionsdf[membersquestionsdf.question.str.contains(keywords, case = False) == True]
         # now turning that dataframe of relevant questions from that particular mp into a list
-        relevantQuestionsList = relevant_questions['question'].tolist()
+        relevantQuestionsList = relevant_questions['question'] + relevant_questions['date'] + 'The Answer:' +relevant_questions['answeringMember'] + relevant_questions['answer']
+        MpsQs = relevantQuestionsList.tolist()
 
         # same deal but for the dataframe of interests 
-        membersinterests = dfinterests.loc[dfinterests['id'] == item, 'interest']
-        membersinterestdf = pd.DataFrame(membersinterests, columns = ['interest'])
+        membersinterests = dfinterests.loc[dfinterests['id'] == item]
+        membersinterestdf = pd.DataFrame(membersinterests, columns = ['interest', 'date'])
         # filter for relevant
         relevant_interests = membersinterestdf[membersinterestdf.interest.str.contains(keywords, case = False) == True]
         # turn into a list
-        relevantInterestsList = relevant_interests['interest'].tolist()
+        relevantInterestsList = relevant_interests['interest'] +relevant_interests['date']
+        MpsInterests = relevantInterestsList.tolist()
 
         # now putting all this information about this single mp into a list inside a big list
-        big_relevant_list.append([id, name_value, relevantQuestionsList, relevantInterestsList])
+        big_relevant_list.append([id, name_value, party, MpsQs, MpsInterests])
 
     # turn this into a dataframe
-    found_members_df = pd.DataFrame(big_relevant_list, columns = ['id', 'name', 'questions','interests'])
+    found_members_df = pd.DataFrame(big_relevant_list, columns = [id', 'name', 'party', 'questions','interests'])
     st.write(found_members_df)
     
     buffer = io.BytesIO()

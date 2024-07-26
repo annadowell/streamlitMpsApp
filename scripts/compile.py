@@ -5,7 +5,7 @@ def load_data(url):
     return data
 
 #MPS
-archive1 = 'https://github.com/annadowell/streamlitMpsApp/blob/main/mpsList14YearsofConservatives.xlsx'
+archive1 = 'https://github.com/annadowell/streamlitMpsApp/blob/main/mpsList14YearsofConservatives.csv'
 archiveMps = load_data(archive1)
 
 new1 = 'https://raw.githubusercontent.com/annadowell/streamlitMpsApp/main/MpsListNew.csv'
@@ -20,7 +20,7 @@ CompiledMps.to_csv('CompiledMps.csv', index=False)
 
 #INTERESTS
 
-archive2 = 'https://github.com/annadowell/streamlitMpsApp/blob/main/mpsInterests14YearsofConservatives.xlsx'
+archive2 = 'https://github.com/annadowell/streamlitMpsApp/blob/main/mpsInterests14YearsofConservatives.csv'
 archiveInterests = load_data(archive2)
 
 new2 = 'https://raw.githubusercontent.com/annadowell/streamlitMpsApp/main/InterestsNew.csv'
@@ -35,7 +35,7 @@ CompiledInterests.to_csv('CompiledInterests.csv', index=False)
 
 #QUESTIONS
 
-archive3 = 'https://github.com/annadowell/streamlitMpsApp/blob/main/mpsQuestions14YearsofConservatives.xlsx'
+archive3 = 'https://github.com/annadowell/streamlitMpsApp/blob/main/mpsQuestions14YearsofConservatives.csv'
 archiveQuestions = load_data(archive3)
 
 new3 = 'https://raw.githubusercontent.com/annadowell/streamlitMpsApp/main/QuestionsNew.csv'

@@ -1,6 +1,5 @@
 import streamlit as st
 import pandas as pd
-#from streamlit_gsheets import GSheetsConnection
 import io
 import xlsxwriter
 
@@ -104,7 +103,8 @@ def create_regex_pattern(words_list):
 
 if st.button("Submit"):
     cleanseparates = [word.strip() for word in input.split(',')]
-    keywords = create_regex_pattern(cleanseparates)
+    keywords1 = create_regex_pattern(cleanseparates)
+    keywords = keywords1.lower()
     CrossReferencing(keywords)
 
 

@@ -75,7 +75,7 @@ def CrossReferencing(keywords):
 
     # turn this into a dataframe
     found_members_df = pd.DataFrame(big_relevant_list, columns = ['id', 'name', 'party', 'questions','interests'])
-    st.write(found_members_df)
+    st.dataframe(data = found_members_df,hide_index=True)
     
     buffer = io.BytesIO()
     with pd.ExcelWriter(buffer, engine='xlsxwriter') as writer:

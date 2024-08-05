@@ -105,7 +105,7 @@ def CrossReferencing(keywords):
         },
         hide_index=True, 
     )
-    
+    st.write('Download these cases as an excel file here!')
     buffer = io.BytesIO()
     with pd.ExcelWriter(buffer, engine='xlsxwriter') as writer:
         found_members_df.to_excel(writer, sheet_name='Sheet1', index=False)

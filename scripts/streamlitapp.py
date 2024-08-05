@@ -80,14 +80,25 @@ def CrossReferencing(keywords):
         data = found_members_df, 
         width=1500, 
         use_container_width=False, 
-        
         column_config={
+        "id": st.column_config.NumberColumn(
+            "Member's ID",
+            width="small", 
+            ),
+        "name": st.column_config.TextColumn(
+            "Name",
+            width="small", 
+            ),
+        "party": st.column_config.TextColumn(
+            "Party",
+            width="small", 
+            ),
         "questions": st.column_config.TextColumn(
-            "questions",
+            "Questions",
             width="large", 
             ),
         "interests": st.column_config.TextColumn(
-            "interests",
+            "Interests",
             width="large", 
             ),
         },

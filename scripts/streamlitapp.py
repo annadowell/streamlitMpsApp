@@ -78,7 +78,7 @@ def CrossReferencing(keywords):
     
     st.dataframe(
         data = found_members_df, 
-        width=1000, 
+        width=1500, 
         use_container_width=False, 
         
         column_config={

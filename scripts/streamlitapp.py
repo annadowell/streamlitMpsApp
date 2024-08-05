@@ -84,11 +84,11 @@ def CrossReferencing(keywords):
         column_config={
         "questions": st.column_config.TextColumn(
             "questions",
-            width=large, 
+            width="large", 
             ),
         "interests": st.column_config.TextColumn(
             "interests",
-            width=large, 
+            width="large", 
             ),
         },
         hide_index=True, 

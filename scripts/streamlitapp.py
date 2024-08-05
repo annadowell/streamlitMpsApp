@@ -20,10 +20,6 @@ dfMpsDataframeImproved = load_data(archive_mps_url)
 #st.write(dfMpsDataframeImproved)
 
 
-# FILTERING FOR THE EXCEL READ DATA
-
-# input whatever keywords you want to search in here
-
 def CrossReferencing(keywords):
     
     dfquestions['question'] = dfquestions['question'].astype(str)
@@ -96,7 +92,7 @@ def CrossReferencing(keywords):
         mime='application/vnd.openxmlformats-officedocument.spreadsheetml.sheet'
     )
 
-input = st.text_input("Keywords: phrases or keywords separated by commas (no and), don't put any commas at the beginning or end of the string", "e.g. oil, gas, north sea, offshore energies uk")
+input = st.text_input("Keywords or phrases separated by commas:", "rent, renters, tenant, tenants, property, landlord, landlords, rent cap, property, lease, tenant responsibility")
 def create_regex_pattern(words_list):
     pattern = '|'.join(rf'\b{word}\b' for word in words_list)
     return pattern

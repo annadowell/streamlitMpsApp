@@ -85,6 +85,9 @@ def CrossReferencing(keywords):
         "questions": st.column_config.TextColumn(
             "questions",
             ),
+        "interests": st.column_config.TextColumn(
+            "interests",
+            ),
         },
         hide_index=True, 
     )

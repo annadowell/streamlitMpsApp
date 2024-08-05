@@ -3,6 +3,9 @@ import pandas as pd
 import io
 import xlsxwriter
 
+st.title('Money Talks')
+st.write('This app lets you find connections between the questions MPs ask and money they receive outside parliament. The aim is to find out how loud money talks in the British parliament.')
+
 def load_data(url):
     data = pd.read_csv(url)
     return data
@@ -129,6 +132,7 @@ if st.button("Submit"):
     keywords = keywords1.lower()
     CrossReferencing(keywords)
 
+st.link_button("About", "https://github.com/annadowell/streamlitMpsApp?tab=readme-ov-file#money-talks")
 
 
 

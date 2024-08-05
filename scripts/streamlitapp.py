@@ -78,28 +78,6 @@ def CrossReferencing(keywords):
 
     # turn this into a dataframe
     found_members_df = pd.DataFrame(big_relevant_list, columns = ['id', 'name', 'party', 'questions','interests'])
-
-    st.markdown(
-        """
-        <style>
-        .stDataFrame .dataframe .cell {
-            overflow: hidden;
-            white-space: nowrap;
-            text-overflow: ellipsis;
-        }
-        .stDataFrame .dataframe .cell:hover {
-            overflow: visible;
-            white-space: normal;
-            position: relative;
-            z-index: 1;
-            max-width: 400px;  /* Adjust max-width to fit the screen */
-            max-height: 200px; /* Adjust max-height to fit the screen */
-            word-wrap: break-word;
-        }
-        </style>
-        """,
-        unsafe_allow_html=True
-    )
     
     st.dataframe(
         data = found_members_df, 

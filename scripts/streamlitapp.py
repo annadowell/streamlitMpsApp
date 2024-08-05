@@ -78,8 +78,6 @@ def CrossReferencing(keywords):
     
     st.dataframe(
         data = found_members_df, 
-        width=1500, 
-        use_container_width=False, 
         column_config={
         "id": st.column_config.NumberColumn(
             "Member's ID",

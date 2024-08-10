@@ -139,7 +139,7 @@ def create_regex_pattern(words_list):
 #     CrossReferencing(keywords)
 
 st.sidebar.link_button("About the app", "https://github.com/annadowell/streamlitMpsApp?tab=readme-ov-file#money-talks")
-    st.link_button("About the Creator", "https://www.linkedin.com/in/anna-dowell-678261229/")
+    # st.link_button("About the Creator", "https://www.linkedin.com/in/anna-dowell-678261229/")
 
 
 

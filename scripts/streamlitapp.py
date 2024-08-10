@@ -127,7 +127,7 @@ def create_regex_pattern(words_list):
     return pattern
     
 if input:
-    text = input.rstrip(",")
+    text = input.rstrip(", ")
     cleanseparates = [word.strip() for word in text.split(',')]
     keywords1 = create_regex_pattern(cleanseparates)
     keywords = keywords1.lower()

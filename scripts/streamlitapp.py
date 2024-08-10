@@ -127,7 +127,8 @@ def create_regex_pattern(words_list):
     return pattern
     
 if input:
-    cleanseparates = [word.strip() for word in input.split(',')]
+    text = input.rstrip(",")
+    cleanseparates = [word.strip() for word in text.split(',')]
     keywords1 = create_regex_pattern(cleanseparates)
     keywords = keywords1.lower()
     CrossReferencing(keywords)
@@ -141,7 +142,8 @@ if input:
 
 st.sidebar.link_button("About the app", "https://github.com/annadowell/streamlitMpsApp?tab=readme-ov-file#money-talks")
 st.sidebar.link_button("About the Creator", "https://www.linkedin.com/in/anna-dowell-678261229/")
-st.sidebar.write("How to: the app opens with an example query. Replace the words in the input box with your own list and press enter to see your own query returned!")
+st.sidebar.header("How to:")
+st.sidebar.write("The app opens with an example query. Replace the words in the input box with your own list and press enter to see your own query returned!")
 
 
 

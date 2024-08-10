@@ -122,15 +122,16 @@ def CrossReferencing(keywords):
 
 input = st.text_input("Keywords or phrases separated by commas:", "rent, renters, tenant, tenants, property, landlord, landlords, rent cap, property, lease, tenant responsibility")
 
+def create_regex_pattern(words_list):
+    pattern = '|'.join(rf'\b{word}\b' for word in words_list)
+    return pattern
+    
 if input:
     cleanseparates = [word.strip() for word in input.split(',')]
     keywords1 = create_regex_pattern(cleanseparates)
     keywords = keywords1.lower()
     CrossReferencing(keywords)
-    
-def create_regex_pattern(words_list):
-    pattern = '|'.join(rf'\b{word}\b' for word in words_list)
-    return pattern
+
 
 # if st.button("Submit"):
 #     cleanseparates = [word.strip() for word in input.split(',')]

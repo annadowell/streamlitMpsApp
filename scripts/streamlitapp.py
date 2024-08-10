@@ -140,7 +140,8 @@ if input:
 #     CrossReferencing(keywords)
 
 st.sidebar.link_button("About the app", "https://github.com/annadowell/streamlitMpsApp?tab=readme-ov-file#money-talks")
-    # st.link_button("About the Creator", "https://www.linkedin.com/in/anna-dowell-678261229/")
+st.sidebar.link_button("About the Creator", "https://www.linkedin.com/in/anna-dowell-678261229/")
+st.sidebar.write("How to: the app opens with an example query. Replace the words in the input box with your own list and press enter to see your own query returned!")
 
 
 

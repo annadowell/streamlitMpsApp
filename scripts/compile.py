@@ -20,7 +20,7 @@ CompiledMps.to_csv('CompiledMps.csv', index=False)
 
 #INTERESTS
 
-archive2 = 'https://raw.githubusercontent.com/annadowell/streamlitMpsApp/main/mpsInterests14YearsofConservatives.csv'
+archive2 = 'https://raw.githubusercontent.com/annadowell/streamlitMpsApp/main/mySocietyArchiveGutted.csv'
 archiveInterests = load_data(archive2)
 
 new2 = 'https://raw.githubusercontent.com/annadowell/streamlitMpsApp/main/InterestsNew.csv'

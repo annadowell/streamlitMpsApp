@@ -77,7 +77,7 @@ big_list_questions = []
 def CallingTheQuestions(id):
 
     # API for oral questions
-    urlquestions = f'https://oralquestionsandmotions-api.parliament.uk/oralquestions/list?parameters.answeringDateStart=2024-06-29&parameters.askingMemberIds={id}'
+    urlquestions = f'https://oralquestionsandmotions-api.parliament.uk/oralquestions/list?parameters.askingMemberIds={id}'
     req = requests.get(urlquestions, headers=my_ua)
     
     if req.status_code == 200:
@@ -108,39 +108,39 @@ def CallingTheQuestions(id):
         print(f"Failed to fetch data for member ID {item} with status code {req.status_code}")
 
     # # API for written questions
-    # urlwrittenquestions = f'https://members-api.parliament.uk/api/Members/{item}/WrittenQuestions'
-    # req2 = requests.get(urlwrittenquestions, headers=my_ua)
+    urlwrittenquestions = f'https://members-api.parliament.uk/api/Members/{item}/WrittenQuestions'
+    req2 = requests.get(urlwrittenquestions, headers=my_ua)
 
-    # if req2.status_code == 200:
-    #     response_json = req2.json()
+    if req2.status_code == 200:
+        response_json = req2.json()
 
-    #     if response_json.get('items') is not None:
-    #         for x in range(len(response_json['items'])):
-    #             try:
-    #                 entry = response_json['items'][x].get('value', {})
-    #                 MemberID = entry.get('askingMemberId')
-    #                 link = response_json['items'][x].get('links', [{}])[0].get('href', '')
+        if response_json.get('items') is not None:
+            for x in range(len(response_json['items'])):
+                try:
+                    entry = response_json['items'][x].get('value', {})
+                    MemberID = entry.get('askingMemberId')
+                    link = response_json['items'][x].get('links', [{}])[0].get('href', '')
 
-    #                 if link:
-    #                     req4 = requests.get(link)
-    #                     req4_json = req4.json().get('value', {})
+                    if link:
+                        req4 = requests.get(link)
+                        req4_json = req4.json().get('value', {})
 
-    #                     questionAsked = req4_json.get('questionText')
-    #                     answeringName = req4_json.get('answeringBodyName', 'Unknown')
-    #                     date = req4_json.get('dateTabled')
-    #                     answer = req4_json.get('answerText', 'No answer recorded')
+                        questionAsked = req4_json.get('questionText')
+                        answeringName = req4_json.get('answeringBodyName', 'Unknown')
+                        date = req4_json.get('dateTabled')
+                        answer = req4_json.get('answerText', 'No answer recorded')
 
-    #                     if MemberID and questionAsked and date:
-    #                         small_written_list = [MemberID, questionAsked, date, answeringName, answer]
-    #                         big_list_questions.append(small_written_list)
-    #             except KeyError as e:
-    #                 print(f"Key error: {e} for entry {x}")
-    #             except Exception as e:
-    #                 print(f"An error occurred: {e} for entry {x}")
-    #     else:
-    #         print(f"No 'items' found for member ID {item}")
-    # else:
-    #     print(f"Failed to fetch data for member ID {item} with status code {req2.status_code}")
+                        if MemberID and questionAsked and date:
+                            small_written_list = [MemberID, questionAsked, date, answeringName, answer]
+                            big_list_questions.append(small_written_list)
+                except KeyError as e:
+                    print(f"Key error: {e} for entry {x}")
+                except Exception as e:
+                    print(f"An error occurred: {e} for entry {x}")
+        else:
+            print(f"No 'items' found for member ID {item}")
+    else:
+        print(f"Failed to fetch data for member ID {item} with status code {req2.status_code}")
         
 for item in MpsListImproved:
     CallingTheQuestions(item)

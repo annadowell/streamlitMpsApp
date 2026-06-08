@@ -170,19 +170,19 @@ Date received: 19 June 2025
 Date accepted: 19 June 2025
 Donor status: company, registration 04320977
 (Registered 23 June 2025)",4032,2025-07-01T10:56:32.82
-"Name of donor: The All England Lawn and Tennis Club (Wimbledon) Limited
-Address of donor: Church Road, Wimbledon, London SW19 5AE
-Amount of donation or nature and value if donation in kind: Two tickets with hospitality to attend Wimbledon as Shadow Secretary of State for Culture, Media and Sport, value £1,066
-Date received: 1 July 2025
-Date accepted: 1 July 2025
-Donor status: company, registration 01429062
-(Registered 7 July 2025)",4032,2025-07-15T08:40:21.6433333
 "Name of donor: Silverstone Circuits Limited
 Address of donor: Silverstone Circuit, Towcester, Northamptonshire, United Kingdom, NN12 8TN
 Amount of donation or nature and value if donation in kind: Two tickets with hospitality to attend the Grand Prix at Silverstone as Shadow Secretary of State for Culture, Media and Sport, value £2,390
 Date received: 6 July 2025
 Date accepted: 6 July 2025
 Donor status: company, registration 00882843
+(Registered 7 July 2025)",4032,2025-07-15T08:40:21.6433333
+"Name of donor: The All England Lawn and Tennis Club (Wimbledon) Limited
+Address of donor: Church Road, Wimbledon, London SW19 5AE
+Amount of donation or nature and value if donation in kind: Two tickets with hospitality to attend Wimbledon as Shadow Secretary of State for Culture, Media and Sport, value £1,066
+Date received: 1 July 2025
+Date accepted: 1 July 2025
+Donor status: company, registration 01429062
 (Registered 7 July 2025)",4032,2025-07-15T08:40:21.6433333
 "Name of donor: Lawn Tennis Association
 Address of donor: The National Tennis Centre, 100 Priory Lane, Roehampton, London, SW15 5JQ
@@ -198,13 +198,6 @@ Date received: 10 July 2025 to 10 July 2025
 Date accepted: 10 July 2025
 Donor status: company, registration 07475460
 (Registered 16 July 2025)",4623,2025-08-05T09:51:11.3866667
-"Name of donor: Rugby Football Union
-Address of donor: Rugby House,Twickenham Stadium, 200 Whitton Road, Twickenham TW2 7BA
-Amount of donation or nature and value if donation in kind: Two tickets, with hospitality, to a Women's Rugby match, value £638
-Date received: 14 September 2024
-Date accepted: 14 September 2024
-Donor status: company, registration IP27981R
-(Registered 8 August 2025)",4623,2025-09-02T11:01:09.5566667
 "Name of donor: The Betting & Gaming Council
 Address of donor: Kings Building, 16 Smith Square, London SW1P 3HQ
 Amount of donation or nature and value if donation in kind: Two tickets and hospitality for Oasis, value £2,400
@@ -212,6 +205,13 @@ Date received: 30 July 2025
 Date accepted: 30 July 2025
 Donor status: company, registration 12213577
 (Registered 8 August 2025)",4623,2025-09-02T11:00:58.1233333
+"Name of donor: Rugby Football Union
+Address of donor: Rugby House,Twickenham Stadium, 200 Whitton Road, Twickenham TW2 7BA
+Amount of donation or nature and value if donation in kind: Two tickets, with hospitality, to a Women's Rugby match, value £638
+Date received: 14 September 2024
+Date accepted: 14 September 2024
+Donor status: company, registration IP27981R
+(Registered 8 August 2025)",4623,2025-09-02T11:01:09.5566667
 "Name of donor: R & A Chamionships Limited
 Address of donor: Beach House, Golf Place, St Andrews KY16 9JA
 Amount of donation or nature and value if donation in kind: Two tickets and hospitality to The 153rd Open, value £900
@@ -381,6 +381,13 @@ Date received: 13 February 2026 to 18 February 2026
 Date accepted: 13 February 2026
 Donor status: individual
 (Registered 11 March 2026)",4597,2026-03-24T10:21:32.8066667
+"Name of donor: Carlton Club
+Address of donor: 69 St James’s Street, London, SW1A 1PJ
+Amount of donation or nature and value if donation in kind: Honorary membership value of which is currently £960 per annum, value £960
+Date received: 11 December 2024 to 11 April 2029
+Date accepted: 18 December 2024
+Donor status: company, registration 00573221
+(Registered 19 May 2026)",4597,2026-06-03T10:07:17.0566667
 "Name of donor: Hoover Institution
 Address of donor: 434 Galvez Mall, Stanford University, CA 94305 USA
 Estimate of the probable value (or amount of any donation): Accommodation for myself and two staff members (£4116.00). On 11 December Hoover reimbursed (£23,363.96), for flights for myself and two staff members,  originally made by the Conservative Party, value £27,479.96
@@ -388,13 +395,13 @@ Destination of visit: United States
 Dates of visit: 17 October 2025 to 20 October 2025
 Purpose of visit: To participate in a conference organised by the Hoover Institute.
 (Registered 12 November 2025; updated 15 December 2025)",4597,2025-12-16T10:58:04.8366667
-"A Person with Significant Control of C&UCO Management Limited. This is an unpaid role.
-Date interest arose: 2 November 2024
-(Registered 27 November 2024)",4597,2024-12-11T12:57:49.5566667
 "A Person with Significant Control of C&UCO Properties. This is an unpaid role.
 Date interest arose: 2 November 2024
 (Registered 27 November 2024)",4597,2024-12-11T12:57:49.5566667
 "A Person with Significant Control of the Conservative Party Foundation. This is an unpaid role.
+Date interest arose: 2 November 2024
+(Registered 27 November 2024)",4597,2024-12-11T12:57:49.5566667
+"A Person with Significant Control of C&UCO Management Limited. This is an unpaid role.
 Date interest arose: 2 November 2024
 (Registered 27 November 2024)",4597,2024-12-11T12:57:49.5566667
 "A Person with Significant Control of C&UCO Services Limited. This is an unpaid role.
@@ -457,6 +464,10 @@ Date interest arose: 16 October 2024
 "Trustee of the British School of Brussels, Pater Dupierreuxlaan 1, 3080 Tervuren, Belgium, which my father helped to establish. This is an unpaid position.
 Date interest arose: 17 October 2025
 (Registered 20 October 2025)",4107,2025-10-21T14:20:17.3066667
+"Name of donor: Betting and Gaming Council
+A £50 bet provided by the Betting and Gaming Council (which is under the threshold for registration under Category 3). Winnings of £355 were donated to a charity nominated by me.
+Date interest arose: 27 March 2026
+(Registered 1 June 2026)",4107,2026-06-03T10:07:29.87
 "Role, work or services: Consultant
 Payer: BPP Holdings Limited (BPP), (education), BPP House, Aldine Place, 142-144 Uxbridge Road, London W12 8AA
 ACOBA consulted: Yes
@@ -818,19 +829,19 @@ Additional information: Any payments will be listed below.
 "Role, work or services: Author Royalties
 Payer: Public Lending Right, British Library, Boston Spa, Wetherby LS23 7BQ
 (Registered 14 April 2026)",1446,2026-04-29T09:39:41.7733333
-"Name of donor: Edinburgh International Book Festival
-Address of donor: 121 George Street, Edinburgh EH2 4YN
-Amount of donation or nature and value if donation in kind: One night's accommodation night for the Edinburgh International Book Festival, value £345
-Date received: 20 August 2025
-Date accepted: 20 August 2025
-Donor status: company, registration SC079939
-(Registered 9 September 2025)",1446,2025-09-17T08:37:02.4666667
 "Name of donor: Bloomsbury Publishing Plc
 Address of donor: 50 Bedford Square, London WC1B 3DP
 Amount of donation or nature and value if donation in kind: One night's accommodation  for the Edinburgh Book Festival (£345) and dinner (£18.30), value £363.30
 Date received: 19 August 2025 to 20 August 2025
 Date accepted: 19 August 2025
 Donor status: company, registration 01984336
+(Registered 9 September 2025)",1446,2025-09-17T08:37:02.4666667
+"Name of donor: Edinburgh International Book Festival
+Address of donor: 121 George Street, Edinburgh EH2 4YN
+Amount of donation or nature and value if donation in kind: One night's accommodation night for the Edinburgh International Book Festival, value £345
+Date received: 20 August 2025
+Date accepted: 20 August 2025
+Donor status: company, registration SC079939
 (Registered 9 September 2025)",1446,2025-09-17T08:37:02.4666667
 "A trustee of the Mabon Trust, which offers small grants to community projects, organisations, individuals and charities in the Rhondda. This is an unpaid role.
 Date interest arose: 21 March 2021
@@ -867,11 +878,11 @@ Interest held: from 17 January 2022
 (Registered 28 March 2023)",4493,2024-04-18T15:16:03.7533333
 "Non-practising solicitor.
 (Registered 6 June 2015)",4493,2024-04-18T15:14:45.9666667
-"Unpaid Director of Richard Burgon Campaigns Ltd, a company established for my campaign to be Labour’s Deputy Leader and which continues to help deliver my campaigns work.
-Date interest arose: 16 April 2020
-(Registered 24 March 2023)",4493,2024-04-18T15:14:45.9666667
 "Unpaid Chair of the Brazil Solidarity Initiative, a network established to campaign for human rights in Brazil.
 Date interest arose: 22 November 2018
+(Registered 24 March 2023)",4493,2024-04-18T15:14:45.9666667
+"Unpaid Director of Richard Burgon Campaigns Ltd, a company established for my campaign to be Labour’s Deputy Leader and which continues to help deliver my campaigns work.
+Date interest arose: 16 April 2020
 (Registered 24 March 2023)",4493,2024-04-18T15:14:45.9666667
 "Role, work or services: Speaking engagement
 Payer: Gibson, Dunn & Crutcher LLP (Law Firm), Telephone House, 2-4 Temple Avenue, London EC4Y 0HB
@@ -978,6 +989,13 @@ Date received: 9 July 2025
 Date accepted: 9 July 2025
 Donor status: individual
 (Registered 6 August 2025)",4651,2025-09-02T11:00:58.1233333
+"Name of donor: Mr Alan Halsall
+Address of donor: private
+Amount of donation or nature and value if donation in kind: £5,000 paid to my campaign fund
+Date received: 28 April 2026
+Date accepted: 28 April 2026
+Donor status: individual
+(Registered 24 May 2026)",4651,2026-06-03T10:07:17.0566667
 "Name of donor: Embassy of Qatar
 Address of donor: 1 South Audley Street, London W1K 1NB
 Amount of donation or nature and value if donation in kind: Ticket (£120) and hotel (£454) for the Qatar Goodwood Festival 2025, value £574
@@ -1155,6 +1173,13 @@ Destination of visit: Qatar (Doha)
 Dates of visit: 5 December 2025 to 8 December 2025
 Purpose of visit: To attend the Doha Forum on Diplomacy, Dialogue and Diversity and meetings with Qatari ministers to discuss Conflict Resolution.
 (Registered 17 December 2025)",4267,2026-01-06T10:53:25.9866667
+"Name of donor: Cayman Government
+Address of donor: c/o CICO-UK, 34 Dover Street, London W1S 4NG
+Estimate of the probable value (or amount of any donation): Flights (2129.62 ), accommodation (£2303.56), transport (£199.50), meals (£899.92).  I was accompanied by my partner who paid his own costs but joined me at formal dinners - food (£543.92), value £6,076.52
+Destination of visit: Cayman Islands
+Dates of visit: 12 February 2026 to 21 February 2026
+Purpose of visit: I am Chair of the APPG Cayman and led a delegation to meet with Ministers, officials and visit environmental projects and sites.
+(Registered 26 May 2026)",4267,2026-06-03T10:07:17.0566667
 "Membership of Advisory Board of the SOAS China
 Institute (SCI). This is an unpaid role.
 Date interest arose: 25 April 2025
@@ -1277,14 +1302,14 @@ Fellow of the Royal Institute of Chartered Surveyors (unremunerated).,249,2024-0
 "Director of Gresham Hall Glamping Ltd (unremunerated).
 Date interest arose: 26 May 2021
 (Registered 9 January 2023)",249,2024-04-18T15:15:21.3666667
-"Name of donor: Carl Michel
-Address of donor: private
-Amount of donation or nature and value if donation in kind: £2,000
-Donor status: individual
-(Registered 8 May 2025)",4769,2025-05-13T14:40:19.52
 "Name of donor: Elizabeth Desmond
 Address of donor: private
 Amount of donation or nature and value if donation in kind: £5,000
+Donor status: individual
+(Registered 8 May 2025)",4769,2025-05-13T14:40:19.52
+"Name of donor: Carl Michel
+Address of donor: private
+Amount of donation or nature and value if donation in kind: £2,000
 Donor status: individual
 (Registered 8 May 2025)",4769,2025-05-13T14:40:19.52
 "Name of donor: Chris White
@@ -1312,12 +1337,12 @@ Address of donor: 23b Cloudesley Street, London N1 0HX
 Amount of donation or nature and value if donation in kind: £20,000
 Donor status: company, registration 07079981
 (Registered 22 December 2025)",4769,2026-01-06T10:53:25.9866667
-"Name of donor: Thomas Gosling
+"Name of donor: Ewan Kirk
 Address of donor: private
 Amount of donation or nature and value if donation in kind: £10,000
 Donor status: individual
 (Registered 14 February 2026)",4769,2026-02-24T09:59:08.8633333
-"Name of donor: Ewan Kirk
+"Name of donor: Thomas Gosling
 Address of donor: private
 Amount of donation or nature and value if donation in kind: £10,000
 Donor status: individual
@@ -1370,16 +1395,9 @@ Donor status: company, registration 02830019
 (Registered 1 July 2025)",185,2025-07-15T08:40:43.6366667
 "Name of donor: Peace and Justice Project
 Address of donor: Unit F2,1st Floor The London Fashion Centre, 89-93 Fonthill Road, London N4 3JH
-Amount of donation or nature and value if donation in kind: Return train ticket London to Leicester, to attend a Your Party event, value £137.66
-Date received: 2 February 2026
-Date accepted: 2 February 2026
-Donor status: company, registration 12945855
-(Registered 25 February 2026)",185,2026-03-10T14:50:54.6866667
-"Name of donor: The Peace and Justice Project
-Address of donor: Unit F2,1st Floor The London Fashion Centre, 89-93 Fonthill Road, London N4 3JH
-Amount of donation or nature and value if donation in kind: Return train ticket London to Luton, to attend a Your Party rally, value £25.54
-Date received: 4 February 2026
-Date accepted: 4 February 2026
+Amount of donation or nature and value if donation in kind: Hotel for one night in Southport, for my attendance at a Your Party event, value £78.75
+Date received: 20 February 2026
+Date accepted: 20 February 2026
 Donor status: company, registration 12945855
 (Registered 25 February 2026)",185,2026-03-10T14:50:54.6866667
 "Name of donor: Peace and Justice Project
@@ -1426,20 +1444,6 @@ Donor status: company, registration 12945855
 (Registered 25 February 2026)",185,2026-03-10T14:50:54.6866667
 "Name of donor: The Peace and Justice Project
 Address of donor: Unit F2,1st Floor The London Fashion Centre, 89-93 Fonthill Road, London N4 3JH
-Amount of donation or nature and value if donation in kind: Return train ticket London to Bristol, to attend a Your Party event, value £51.90
-Date received: 14 February 2026
-Date accepted: 14 February 2026
-Donor status: company, registration 12945855
-(Registered 25 February 2026)",185,2026-03-10T14:50:54.6866667
-"Name of donor: Peace and Justice Project
-Address of donor: Unit F2,1st Floor The London Fashion Centre, 89-93 Fonthill Road, London N4 3JH
-Amount of donation or nature and value if donation in kind: Hotel for one night in Southport, for my attendance at a Your Party event, value £78.75
-Date received: 20 February 2026
-Date accepted: 20 February 2026
-Donor status: company, registration 12945855
-(Registered 25 February 2026)",185,2026-03-10T14:50:54.6866667
-"Name of donor: The Peace and Justice Project
-Address of donor: Unit F2,1st Floor The London Fashion Centre, 89-93 Fonthill Road, London N4 3JH
 Amount of donation or nature and value if donation in kind: Train ticket from Birmingham to London, after attending a Your Party event, value £32.46
 Date received: 1 February 2026
 Date accepted: 1 February 2026
@@ -1450,6 +1454,27 @@ Address of donor: Unit F2,1st Floor The London Fashion Centre, 89-93 Fonthill Ro
 Amount of donation or nature and value if donation in kind: Return train ticket London to Banbury, to attend a Your Party event, value £47.94
 Date received: 9 February 2026
 Date accepted: 9 February 2026
+Donor status: company, registration 12945855
+(Registered 25 February 2026)",185,2026-03-10T14:50:54.6866667
+"Name of donor: The Peace and Justice Project
+Address of donor: Unit F2,1st Floor The London Fashion Centre, 89-93 Fonthill Road, London N4 3JH
+Amount of donation or nature and value if donation in kind: Return train ticket London to Bristol, to attend a Your Party event, value £51.90
+Date received: 14 February 2026
+Date accepted: 14 February 2026
+Donor status: company, registration 12945855
+(Registered 25 February 2026)",185,2026-03-10T14:50:54.6866667
+"Name of donor: Peace and Justice Project
+Address of donor: Unit F2,1st Floor The London Fashion Centre, 89-93 Fonthill Road, London N4 3JH
+Amount of donation or nature and value if donation in kind: Return train ticket London to Leicester, to attend a Your Party event, value £137.66
+Date received: 2 February 2026
+Date accepted: 2 February 2026
+Donor status: company, registration 12945855
+(Registered 25 February 2026)",185,2026-03-10T14:50:54.6866667
+"Name of donor: The Peace and Justice Project
+Address of donor: Unit F2,1st Floor The London Fashion Centre, 89-93 Fonthill Road, London N4 3JH
+Amount of donation or nature and value if donation in kind: Return train ticket London to Luton, to attend a Your Party rally, value £25.54
+Date received: 4 February 2026
+Date accepted: 4 February 2026
 Donor status: company, registration 12945855
 (Registered 25 February 2026)",185,2026-03-10T14:50:54.6866667
 "Name of donor: Al Jazeera Media Network (Digital division)
@@ -1515,19 +1540,19 @@ Destination of visit: Cuba
 Dates of visit: 19 March 2026 to 23 March 2026
 Purpose of visit: Guest speaker at a high-level strategic roundtable  Nuestra América
 (Registered 28 March 2026)",185,2026-04-14T09:26:38.34
-"Name of donor: Peace and Justice Project
-Address of donor: Unit F2, 1st Floor The London Fashion Centre,  89-93 Fonthill Road, London N4 3JH
-Estimate of the probable value (or amount of any donation): Return train ticket to Brussels only, value £255
-Destination of visit: Belgium (Brussels)
-Dates of visit: 22 April 2026 to 22 April 2026
-Purpose of visit: Guest speaker at the Global Sumud Parliamentary Congress
-(Registered 27 April 2026)",185,2026-04-29T09:39:53.27
 "Name of donor: The Peace and Justice Project
 Address of donor: Unit F2, 1st Floor The London Fashion Centre 89-93 Fonthill Road, London N4 3JH
 Estimate of the probable value (or amount of any donation): Travel only:  return Eurostar ticket, value £265
 Destination of visit: Belgium (Brussels)
 Dates of visit: 18 April 2026 to 18 April 2026
 Purpose of visit: Guest speaker at the Party of the European Left Congress
+(Registered 27 April 2026)",185,2026-04-29T09:39:53.27
+"Name of donor: Peace and Justice Project
+Address of donor: Unit F2, 1st Floor The London Fashion Centre,  89-93 Fonthill Road, London N4 3JH
+Estimate of the probable value (or amount of any donation): Return train ticket to Brussels only, value £255
+Destination of visit: Belgium (Brussels)
+Dates of visit: 22 April 2026 to 22 April 2026
+Purpose of visit: Guest speaker at the Global Sumud Parliamentary Congress
 (Registered 27 April 2026)",185,2026-04-29T09:39:53.27
 "Unpaid director of the Peace and Justice Project, a company limited by guarantee. The company promotes peace and justice issues, both domestic and international.
 Date interest arose: 13 October 2020
@@ -1569,6 +1594,27 @@ Date received: 14 September 2025
 Date accepted: 14 September 2025
 Donor status: individual
 (Registered 6 October 2025)",4439,2025-10-08T13:15:52.9966667
+"Name of donor: All-Party Parliamentary Group for Italy
+Address of donor: c/o House of Commons London SW1A 0AA
+Amount of donation or nature and value if donation in kind: Provision of lunch for a staff member in connection with my duties as Chair of the APPG on Italy, value £6.45
+Date received: 13 February 2026
+Date accepted: 13 February 2026
+Donor status: other (APPG Bank Account)
+(Registered 25 March 2026)",4439,2026-04-14T09:26:26.78
+"Name of donor: All-Party Parliamentary Group for Italy
+Address of donor: c/o House of Commons London SW1A 0AA
+Amount of donation or nature and value if donation in kind: Provision of drinks for myself and 45 guests in connection with my award of Officer of the Order of the Star of Italy, value £192.38
+Date received: 10 March 2026
+Date accepted: 10 March 2026
+Donor status: other (APPG Bank Account)
+(Registered 25 March 2026)",4439,2026-04-14T09:26:26.78
+"Name of donor: All-Party Parliamentary Group for Italy
+Address of donor: c/o House of Commons London SW1A 0AA
+Amount of donation or nature and value if donation in kind: Taxi fare for me and a member of staff in my capacity as Chair of the APPG Italy, value £3.80
+Date received: 9 February 2026
+Date accepted: 9 February 2026
+Donor status: other (APPG Bank Account)
+(Registered 25 March 2026; updated 2 April 2026)",4439,2026-04-14T09:26:49.9166667
 "Name of donor: All-Party Parliamentary Group for Italy
 Address of donor: c/o House of Commons London SW1A 0AA
 Amount of donation or nature and value if donation in kind: Provision of refreshments for a meeting held in my capacity as Chair of the APPG Italy, value £35.90
@@ -1618,27 +1664,13 @@ Date received: 28 January 2026
 Date accepted: 28 January 2026
 Donor status: other (APPG Bank Account)
 (Registered 25 March 2026)",4439,2026-04-14T09:26:26.78
-"Name of donor: All-Party Parliamentary Group for Italy
-Address of donor: c/o House of Commons London SW1A 0AA
-Amount of donation or nature and value if donation in kind: Provision of lunch for a staff member in connection with my duties as Chair of the APPG on Italy, value £6.45
-Date received: 13 February 2026
-Date accepted: 13 February 2026
-Donor status: other (APPG Bank Account)
-(Registered 25 March 2026)",4439,2026-04-14T09:26:26.78
-"Name of donor: All-Party Parliamentary Group for Italy
-Address of donor: c/o House of Commons London SW1A 0AA
-Amount of donation or nature and value if donation in kind: Provision of drinks for myself and 45 guests in connection with my award of Officer of the Order of the Star of Italy, value £192.38
+"Name of donor: Italian Embassy in London
+Address of donor: 4-5 Buckingham Gate, London SW1E 6JP
+Amount of donation or nature and value if donation in kind: Approximate value of refreshments for myself and 45 guests following the ceremony at which I was conferred the title of Officer of the Order of the Star of Italy, value £828
 Date received: 10 March 2026
 Date accepted: 10 March 2026
-Donor status: other (APPG Bank Account)
-(Registered 25 March 2026)",4439,2026-04-14T09:26:26.78
-"Name of donor: All-Party Parliamentary Group for Italy
-Address of donor: c/o House of Commons London SW1A 0AA
-Amount of donation or nature and value if donation in kind: Taxi fare for me and a member of staff in my capacity as Chair of the APPG Italy, value £3.80
-Date received: 9 February 2026
-Date accepted: 9 February 2026
-Donor status: other (APPG Bank Account)
-(Registered 25 March 2026; updated 2 April 2026)",4439,2026-04-14T09:26:49.9166667
+Donor status: other (Italian Embassy in London)
+(Registered 27 March 2026)",4439,2026-05-27T14:02:05.5303614
 "Name of donor: Italian Embassy in London
 Address of donor: 4-5 Buckingham Gate, London, SW1E 6JP
 Amount of donation or nature and value if donation in kind: Approximate value of refreshments provided to me and a member of staff following an APPG meeting, value £140
@@ -1647,26 +1679,19 @@ Date accepted: 9 February 2026
 Donor status: other (Italian Embassy in London)
 (Registered 27 March 2026; updated 2 April 2026)",4439,2026-04-14T09:26:38.34
 "Name of donor: Italian Embassy in London
-Address of donor: 4-5 Buckingham Gate, London SW1E 6JP
-Amount of donation or nature and value if donation in kind: Approximate value of refreshments for myself and 45 guests following the ceremony at which I was conferred the title of Officer of the Order of the Star of Italy., value £828
-Date received: 10 March 2026
-Date accepted: 10 March 2026
-Donor status: other (Italian Embassy in London)
-(Registered 27 March 2026)",4439,2026-04-14T09:26:38.34
-"Name of donor: Italian Embassy in London
 Address of donor: 4-5 Buckingham Gate, London, SW1E 6JP
-Amount of donation or nature and value if donation in kind: My member of staff attended a reception at the Italian Embassy in London, at which refreshments were provided. The approximate value per person is declared below. The threshold for registration was reached on 10 March 2026., value £70
+Amount of donation or nature and value if donation in kind: My member of staff attended a reception at the Italian Embassy in London, at which refreshments were provided. The approximate value per person is declared below. The threshold for registration was reached on 10 March 2026, value £70
 Date received: 2 February 2026
 Date accepted: 2 February 2026
 Donor status: other (Italian Embassy in London)
-(Registered 1 April 2026)",4439,2026-04-14T09:26:38.34
+(Registered 1 April 2026)",4439,2026-05-27T14:02:48.3975001
 "Name of donor: Italian Embassy in London
 Address of donor: 4-5 Buckingham Gate, London, SW1E 6JP
-Amount of donation or nature and value if donation in kind: My member of staff and their guest attended a reception at the Italian Embassy in London, at which refreshments were provided. The approximate value for two people is outlined below., value £140
+Amount of donation or nature and value if donation in kind: My member of staff and their guest attended a reception at the Italian Embassy in London, at which refreshments were provided. The approximate value for two people is outlined below, value £140
 Date received: 19 March 2026
 Date accepted: 19 March 2026
 Donor status: other (Italian Embassy in London)
-(Registered 2 April 2026)",4439,2026-04-14T09:26:38.34
+(Registered 2 April 2026)",4439,2026-05-27T14:03:14.7332764
 "Name of donor: (1) Italian IPU Group  (2) All Party Parliamentary Group for Italy  (3) Dr Maurizio Bragagni  (4) Italian Parliament
 Address of donor: (1) Protocol Office, Chamber of Deputies, Piazza del Parlamento 24,  00186 Rome  (2) House of Commons, London SW1A 0AA  (3) private  (4) Camera dei Deputati  Palazzo Montecitorio - Piazza Montecitorio 00186 - Rome (Italy)
 Estimate of the probable value (or amount of any donation): (1) Lunch for me and a member of my staff (£95.52). Tour of the Colosseum for myself, a member of my staff and one guest (£169.80), value £265.32  (2) Flights for a staff member and a guest (£368.15), meals for myself, my staff member and a guest (£270.87), transport for myself, my staff member and a guest (£250.21), other incidental costs (£100.21), value £989.44  (3) For myself, my staff member and one guest: Transport (£284.45), accommodation (£156.30), meals (£273.57) & other costs (£26.07), value £740.39  (4) Presentation of symbolic, parliamentary items exchanged between me, as Chair of the All-Party Parliamentary Group for Italy, and the various senior Italian select committee chairs we met. Estimated value of ceremonial items is, value £275
@@ -1685,12 +1710,12 @@ Number of properties: 1
 Location: Glasgow
 Rental income: from 1 June 2016
 (Registered 2 June 2015; updated 28 June 2016 and 11 October 2016)",4439,2024-04-18T15:20:39.1333333
-"Non-practising solicitor in England and Wales; member of the Law Society of England and Wales.
-Date interest arose: 18 July 2019
-(Registered 22 October 2015; updated 23 July 2019)",4439,2024-04-18T15:20:17.9633333
 "Non-practising solicitor and notary public in Scotland.
 Date interest arose: 31 October 2016
 (Registered 22 October 2015; updated 9 November 2016)",4439,2024-04-18T15:20:17.9633333
+"Non-practising solicitor in England and Wales; member of the Law Society of England and Wales.
+Date interest arose: 18 July 2019
+(Registered 22 October 2015; updated 23 July 2019)",4439,2024-04-18T15:20:17.9633333
 "I am an executive committee member of the Lutterworth and District Action Group (unpaid).
 Date interest arose: 4 October 2025
 (Registered 21 October 2025)",4439,2025-11-04T15:54:40.9533333
@@ -1853,14 +1878,14 @@ Payer: Hat Trick Productions (Production Company), 33 Oval Rd, London NW1 7EA
 Until: 29 August 2025.
 Payer: Global Media Group Services Limited (Media services), Global, 30 Leicester Square London WC2H 7LA
 (Registered 30 September 2025)",188,2025-10-08T13:15:41.47
-"Name of donor: Stuart Robb
-Address of donor: private
-Amount of donation or nature and value if donation in kind: £5,000
-Donor status: individual
-(Registered 25 July 2025)",188,2025-08-05T09:51:33.9966667
 "Name of donor: James Moore
 Address of donor: private
 Amount of donation or nature and value if donation in kind: £6,000
+Donor status: individual
+(Registered 25 July 2025)",188,2025-08-05T09:51:33.9966667
+"Name of donor: Stuart Robb
+Address of donor: private
+Amount of donation or nature and value if donation in kind: £5,000
 Donor status: individual
 (Registered 25 July 2025)",188,2025-08-05T09:51:33.9966667
 "Name of donor: National Liberal Club
@@ -1893,7 +1918,8 @@ Additional information: Payments will be listed below
 "Role, work or services: Writing a book
 From: 4 April 2026.
 Payer: Bloomsbury Publishing Inc., 1359 Broadway, 12th Floor, New York, NY 10018
-Additional information: Payments will be listed below",4850,2026-05-19T09:45:27.0833333
+Additional information: Payments will be listed below
+(Registered 12 May 2026)",4850,2026-05-29T15:41:10.6505567
 "Name of donor: Informa Plc
 Address of donor: 5 Howick Place, London SW1P 1WG
 Estimate of the probable value (or amount of any donation): Conference admission fee waived, value £5,948.81
@@ -2213,7 +2239,8 @@ Purpose of visit: Meetings with USA Social Justice organisations and Research Co
 Nature of business: A retail company
 (Registered 10 August 2023)",4995,2024-04-18T15:16:17.8666667
 "Director of Vintage Ghetto (unpaid).
-(Registered 10 August 2023)",4995,2024-04-18T15:21:00.32
+Date interest ended: 12 November 2024
+(Registered 10 August 2023; updated 28 May 2026)",4995,2026-06-03T10:07:29.87
 "Trustee of Wincanton Recreational Trust. This is an unpaid role.
 (Registered 10 August 2023)",4995,2025-01-30T16:32:30.779268
 "Name of donor: The Football Association Ltd
@@ -2256,16 +2283,16 @@ Donor status: company, registration 00080612
 (Registered 2 June 2025)",165,2025-06-03T08:58:54.9466667
 "Name of donor: Millwall Football and Athletic Company (1885) Limited
 Address of donor: The Den, John Berylson Way, London SE18 3LN
-Amount of donation or nature and value if donation in kind: Hospitality prior to a football match at the Den.  I was invited in my capacity as a Trustee of the Millwall Community Trust, value £230
-Date received: 14 March 2026
-Date accepted: 14 March 2026
+Amount of donation or nature and value if donation in kind: Hospitality involving Millwall Community Trust, of which I am a trustee, before a Millwall home game, value £299
+Date received: 21 February 2026
+Date accepted: 21 February 2026
 Donor status: company, registration 01924222
 (Registered 30 March 2026)",165,2026-04-14T09:26:38.34
 "Name of donor: Millwall Football and Athletic Company (1885) Limited
 Address of donor: The Den, John Berylson Way, London SE18 3LN
-Amount of donation or nature and value if donation in kind: Hospitality involving Millwall Community Trust, of which I am a trustee, before a Millwall home game, value £299
-Date received: 21 February 2026
-Date accepted: 21 February 2026
+Amount of donation or nature and value if donation in kind: Hospitality prior to a football match at the Den.  I was invited in my capacity as a Trustee of the Millwall Community Trust, value £230
+Date received: 14 March 2026
+Date accepted: 14 March 2026
 Donor status: company, registration 01924222
 (Registered 30 March 2026)",165,2026-04-14T09:26:38.34
 "Trustee of Millwall Community Trust. This is an unpaid role.
@@ -2273,10 +2300,10 @@ Date interest arose: 1 December 2014
 (Registered 30 January 2025)",165,2025-02-04T13:36:45.63
 "Trustee of the Jewish Museum London. This is an unpaid role.
 (Registered 4 March 2024)",5010,2024-04-18T15:20:25.03
-"Unpaid member of the Barry YMCA Board of Management.
-(Registered 6 June 2016; updated 1 March 2021)",4572,2024-04-18T15:15:56.6866667
 "Minor interest in a house in Caerphilly County Borough area owned by two members of my family.
 (Registered 6 June 2016)",4572,2024-04-18T15:15:56.6866667
+"Unpaid member of the Barry YMCA Board of Management.
+(Registered 6 June 2016; updated 1 March 2021)",4572,2024-04-18T15:15:56.6866667
 "A Trustee and Director of the Commonwealth Parliamentary Association (UK Branch).  This is an unpaid role.
 Date interest arose: 28 January 2020
 (Registered 7 August 2023)",4572,2024-04-18T15:15:56.6866667
@@ -2382,6 +2409,34 @@ Date received: 29 September 2025 to 28 February 2026
 Date accepted: 29 September 2025
 Donor status: company, registration 11134849
 (Registered 24 March 2026)",1591,2026-04-14T09:26:26.78
+"Name of donor: Faith in Public Ltd
+Address of donor: 10 Queen Street Place, London EC4R 1BE
+Amount of donation or nature and value if donation in kind: £15,264 the services of a public relations company
+Date received: 1 March 2026 to 28 February 2027
+Date accepted: 1 March 2026
+Donor status: company, registration 11134849
+(Registered 20 May 2026)",1591,2026-06-03T10:07:17.0566667
+"Name of donor: Faith in Public Ltd
+Address of donor: C/O Sedulo Office 605, Albert House, 256 - 260 Old Street, London EC1V 9DD
+Amount of donation or nature and value if donation in kind: £28,435.94 the services of two policy advisers for a total of 30 hours a week
+Date received: 1 April 2026 to 31 March 2027
+Date accepted: 1 April 2026
+Donor status: company, registration 11134849
+(Registered 20 May 2026)",1591,2026-06-03T10:07:17.0566667
+"Name of donor: Refugee, Asylum & Migration Policy Project (RAMP)
+Address of donor: The Courtyard, High Street, Ascot SL5 7HP
+Amount of donation or nature and value if donation in kind: The services of a policy adviser for one day per week from 1 February 2026 - 30 April 2026., value £3,250
+Date received: 1 February 2026 to 30 April 2026
+Date accepted: 1 February 2026
+Donor status: company, registration 12373468
+(Registered 20 May 2026)",1591,2026-06-03T10:07:17.0566667
+"Name of donor: Refugee, Asylum & Migration Policy Project (RAMP)
+Address of donor: The Courtyard, High Street, Ascot SL5 7HP
+Amount of donation or nature and value if donation in kind: The services of a policy adviser for 52 days per year, value £13,400
+Date received: 1 May 2026 to 31 December 2026
+Date accepted: 1 May 2026
+Donor status: company, registration 12373468
+(Registered 20 May 2026)",1591,2026-06-03T10:07:17.0566667
 "Name of donor: National Liberal Club
 Address of donor: Whitehall Place, London SW1A 2HE
 Amount of donation or nature and value if donation in kind: honorary life membership as Leader of the Liberal Democrats (£735 pa in 2015, plus £367.50 entrance fee), value £1,102.50
@@ -2389,6 +2444,13 @@ Date received: 1 August 2015
 Date accepted: 1 August 2015
 Donor status: friendly society
 (Registered 10 August 2015)",1591,2024-05-13T11:34:11.1697028
+"Name of donor: ELNET UK / Liberal Democrat Friends of Israel
+Address of donor: ELNET UK, 4th Floor, 6 Princes Street, London W1B2LG
+Estimate of the probable value (or amount of any donation): Accommodation (£915), flights (£936), food (£446), value £2,297
+Destination of visit: Israel
+Dates of visit: 15 February 2026 to 19 February 2026
+Purpose of visit: Fact-finding visit to Israel and Ramallah. Meeting with Israeli and Palestinian co-existence campaigners, politicians, academics and diplomats.
+(Registered 20 May 2026)",1591,2026-06-03T10:07:17.0566667
 "Advisory Board Member of BOMAD Investments Ltd (trading as HomeNow), an affordable housing scheme. This is an unpaid role.
 Date interest arose: 20 January 2021
 (Registered 21 January 2021)",1591,2024-04-18T15:15:56.6866667
@@ -2529,15 +2591,15 @@ Interest held: from 8 October 2024
 "In my capacity as a Norfolk MP, I am a trustee for Aviornis UK – a Rare Birds Breeds Charity. This is an unpaid role.
 Date interest arose: 2 April 2023
 (Registered 14 June 2023)",4020,2024-04-18T15:15:56.6866667
-"Voluntary Advisory Council Member of the Centre for Long Term Resilience. I consulted ACOBA about this unpaid role.
-Date interest arose: 6 May 2024
-(Registered 7 May 2024)",4020,2025-06-11T09:52:18.4039178
 "Member of Science Superpower Steering Group at UK Onward, an independent, not-for-profit Think Tank. I consulted ACOBA about this unpaid role.
 Date interest arose: 26 April 2024
 (Registered 7 May 2024)",4020,2025-06-11T09:51:01.1273478
 "Strategic Adviser at The Centre for MC, a not for profit industry membership organisation focused on clinical research and development of cannabinoid pharmaceuticals and healthcare products. I consulted ACOBA about this role; it is currently unpaid.
 Date interest arose: 6 April 2024
 (Registered 7 May 2024)",4020,2025-01-26T16:19:39.3239332
+"Voluntary Advisory Council Member of the Centre for Long Term Resilience. I consulted ACOBA about this unpaid role.
+Date interest arose: 6 May 2024
+(Registered 7 May 2024)",4020,2025-06-11T09:52:18.4039178
 "Unpaid Director of Regeneration Theatre Company, a not-for-profit outreach theatre company founded by me and my wife, a professional theatre director, in conjunction with the National Youth Arts Trust (Reg Charity No:1152367). The theatre company is funded by philanthropic donors through the National Youth Arts Trust.
 Date interest arose: 1 September 2024
 Date interest ended: 1 January 2026
@@ -2580,13 +2642,6 @@ Date received: 19 June 2025
 Date accepted: 19 June 2025
 Donor status: company, registration 04320977
 (Registered 30 June 2025)",4932,2025-07-01T10:56:43.9733333
-"Name of donor: Silverstone
-Address of donor: Silverstone Circuit, Towcester, Northamptonshire, United Kingdom, NN12 8TN
-Amount of donation or nature and value if donation in kind: Two tickets to Silverstone Grand Prix as part of the Shadow Sports Minister role and meeting with Silverstone officials, value £1,400
-Date received: 5 July 2025
-Date accepted: 5 July 2025
-Donor status: company, registration 00882843
-(Registered 21 July 2025)",4932,2025-08-05T09:51:22.8233333
 "Name of donor: The Lawn Tennis Association
 Address of donor: The National Tennis Centre 100 Priory Lane, Roehampton, London, SW15 5JQ
 Amount of donation or nature and value if donation in kind: Two tickets to Wimbledon as part of the Shadow Sports Minister role with Lawn Tennis Association to discuss British tennis, value £1,280
@@ -2594,6 +2649,13 @@ Date received: 10 July 2025
 Date accepted: 10 July 2025
 Donor status: company, registration 07459469
 (Registered 21 July 2025)",4932,2025-10-21T10:11:46.5575844
+"Name of donor: Silverstone
+Address of donor: Silverstone Circuit, Towcester, Northamptonshire, United Kingdom, NN12 8TN
+Amount of donation or nature and value if donation in kind: Two tickets to Silverstone Grand Prix as part of the Shadow Sports Minister role and meeting with Silverstone officials, value £1,400
+Date received: 5 July 2025
+Date accepted: 5 July 2025
+Donor status: company, registration 00882843
+(Registered 21 July 2025)",4932,2025-08-05T09:51:22.8233333
 "Name of donor: Allwyn National Lottery
 Address of donor: 37-39 Clarendon Road, Watford WD17 1JA
 Amount of donation or nature and value if donation in kind: Two tickets to the Women's Rugby World Cup as Shadow Minister for Sport and meeting with the National Lottery and other sports bodies, value £1,190
@@ -2753,6 +2815,13 @@ Date received: 5 July 2025
 Date accepted: 5 July 2025
 Donor status: company, registration 00882843
 (Registered 7 July 2025)",4074,2025-07-15T08:40:32.68
+"Name of donor: Richardsons
+Address of donor: 1 Albermarle Street London W1S 4HA
+Amount of donation or nature and value if donation in kind: Two tickets, including hospitality, to Chelsea Flower Show gala evening, for me and my wife Caroline, value £1,260
+Date received: 18 May 2026
+Date accepted: 18 May 2026
+Donor status: limited liability partnership
+(Registered 1 June 2026)",4074,2026-06-03T10:07:29.87
 "Name of donor: Royal Thai Embassy
 Address of donor: 29-30 Queen's Gate London SW7 5JB
 Estimate of the probable value (or amount of any donation): Flights, accommodation, transport, value £5,163.26
@@ -2928,18 +2997,18 @@ Date interest arose: 25 September 2025
 From: 8 May 2026. Until: 31 March 2029.
 Payer: Archeva Limited (A global movement committed to reshaping how Africa is perceived and engaged with worldwide), 1-3 Cranmer Street, Long Eaton, Nottingham NG10 1NJ
 (Registered 11 May 2026)",4018,2026-05-19T09:45:15.27
-"Name of donor: Lawn Tennis Association Ltd
-Address of donor: National Tennis Centre, 100 Priory Lane, Roehampton, London SW15 5JQ
-Amount of donation or nature and value if donation in kind: Two tickets to attend the HSBC tennis tournament at The Queens Club, London, including hospitality, value £1,015.12
-Date received: 22 June 2025
-Date accepted: 22 June 2025
-Donor status: company, registration 07459469
-(Registered 3 July 2025)",4018,2025-07-15T08:40:21.6433333
 "Name of donor: Lawn Tennis Association Limited
 Address of donor: National Tennis Centre, 100 Priory Lane, Roehampton, London SW15 5JQ
 Amount of donation or nature and value if donation in kind: One ticket to attend the HSBC tennis tournament at The Queens Club as co-chair of the APPG for Tennis, value £399.47
 Date received: 12 June 2025
 Date accepted: 12 June 2025
+Donor status: company, registration 07459469
+(Registered 3 July 2025)",4018,2025-07-15T08:40:21.6433333
+"Name of donor: Lawn Tennis Association Ltd
+Address of donor: National Tennis Centre, 100 Priory Lane, Roehampton, London SW15 5JQ
+Amount of donation or nature and value if donation in kind: Two tickets to attend the HSBC tennis tournament at The Queens Club, London, including hospitality, value £1,015.12
+Date received: 22 June 2025
+Date accepted: 22 June 2025
 Donor status: company, registration 07459469
 (Registered 3 July 2025)",4018,2025-07-15T08:40:21.6433333
 "Name of donor: Lawn Tennis Association
@@ -3039,6 +3108,13 @@ Date received: 18 February 2026 to 19 February 2026
 Date accepted: 18 February 2026
 Donor status: company, registration 07465741
 (Registered 9 March 2026)",4874,2026-03-10T14:51:06.16
+"Name of donor: Lloyds Banking Group plc
+Address of donor: The Mound, Edinburgh EH1 1YZ
+Amount of donation or nature and value if donation in kind: Entrance (£635) and hospitality (£284.50), at the RHS Chelsea Flower Show 2026 for my wife and I, value £919.50
+Date received: 18 May 2026
+Date accepted: 18 May 2026
+Donor status: company, registration SC095000
+(Registered 27 May 2026)",4874,2026-06-03T10:07:29.87
 "Name of donor: Konrad Adenauer Stiftung UK Limited
 Address of donor: 42 Essex Street, London WC2R 3JF
 Estimate of the probable value (or amount of any donation): Travel, accommodation and hospitality at the Annual German British Dialogue, value £812
@@ -3055,20 +3131,20 @@ Purpose of visit: Travelled to Taiwan as part of a parliamentary delegation in m
 (Registered 14 October 2025)",4874,2025-10-23T10:31:07.4011859
 "Name of donor: (1) Davos Klosters Bergbahnen AG  (2) Skigruppe der Bundesversammlung, c/o Daniela Schneeberger
 Address of donor: (1) Bramabuhlstrasse 11, CH - 7270 Davos Platz  (2) private
-Estimate of the probable value (or amount of any donation): (1) Ski-passes for two people (£642.96), value £642.96  (2) For three people, hospitality (I paid all other costs) (£504.79) and ski guiding (£1015,20)., value £1,519.88
+Estimate of the probable value (or amount of any donation): (1) Ski-passes for two people (£642.96), value £642.96  (2) For three people, hospitality (I paid all other costs) (£504.79) and ski guiding (£1015,20), value £1,519.88
 Destination of visit: Switzerland
 Dates of visit: 30 March 2026 to 4 April 2026
 Purpose of visit: Participation in 69th Annual British-Swiss Parliamentary ski week.
-(Registered 5 May 2026)",4874,2026-05-19T09:45:15.27
-"Type of land/property: Residential property (holiday home)
-Number of properties: 1
-Location: Cornwall
-Ownership details: Owned jointly with my wife
-Rental income: Yes
-(Registered 10 January 2020)",4874,2024-04-18T15:15:49.62
+(Registered 5 May 2026)",4874,2026-05-27T14:07:02.6648671
 "Type of land/property: Residential property (house)
 Number of properties: 1
 Location: London
+Ownership details: Owned jointly with my wife
+Rental income: Yes
+(Registered 10 January 2020)",4874,2024-04-18T15:15:49.62
+"Type of land/property: Residential property (holiday home)
+Number of properties: 1
+Location: Cornwall
 Ownership details: Owned jointly with my wife
 Rental income: Yes
 (Registered 10 January 2020)",4874,2024-04-18T15:15:49.62
@@ -3119,10 +3195,10 @@ Payer: Have I Got News For You, Series 70 (Production Company), Hat Trick Produc
 "Role, work or services: Sitting on hearings as an Independent Associate Manager
 Payer: Birmingham and Solihull Mental Health Trust, Unit 1 B1, 50 Summer Hill Road, Birmingham B1 3RB
 (Registered 21 March 2022; updated 5 October 2023 and 30 July 2024)",4938,2025-05-19T14:23:50.1694309
-"Role, work or services: Jeremy Vine guest reviewer on the breakfast program, discussing current news affairs of the day.
+"Role, work or services: Media appearances
 From: 16 January 2025.
-Payer: ITN Productions (Channel 5 Studio), 200 Gray's Inn road, London WC1X 8XZ
-(Registered 1 April 2025)",4938,2025-04-08T08:47:25.9566667
+Payer: ITN Productions, 200 Gray's Inn road, London WC1X 8XZ
+(Registered 1 April 2025)",4938,2026-06-03T08:20:32.7693202
 "Registered Nurse at the Bank Universities Hospitals, Birmingham.
 (Registered 21 March 2022)",4938,2024-04-18T15:15:00.22
 "Vice President of the Local Government Association (LGA). This is an unpaid role.
@@ -3137,12 +3213,12 @@ Date interest arose: 1 May 2017
 "Equality, Diversity and Inclusion Trustee for Swansea City AFC Foundation. This is an unpaid role.
 Date interest arose: 26 August 2022
 (Registered 26 September 2022)",4480,2026-04-07T15:02:22.5966595
-"Director and Trustee of the Commonwealth Parliamentary Association (UK Branch). This is an unpaid role.
-Date interest arose: 16 October 2024
-(Registered 11 November 2024)",4480,2025-11-24T11:38:33.9139545
 "Non-executive director, Centre for Social Justice. This is an unpaid role.
 Date interest arose: 15 October 2024
 (Registered 11 November 2024)",4480,2024-11-13T15:11:31.3766667
+"Director and Trustee of the Commonwealth Parliamentary Association (UK Branch). This is an unpaid role.
+Date interest arose: 16 October 2024
+(Registered 11 November 2024)",4480,2025-11-24T11:38:33.9139545
 "Name of donor: L Bennett and Son Ltd
 Address of donor: 3 Prime Point, Bessemer Road, Welwyn Garden City, Herts, AL7 1HU
 Amount of donation or nature and value if donation in kind: £3,650 for the costs of hosting a social event for Conservative Members of Parliament and staffers
@@ -3209,12 +3285,12 @@ Location: Hove
 Interest held: from 10 January 2025 until 7 November 2025
 Ownership details: I no longer have any ownership in this property (ownership now with my two sisters)
 (Registered 7 May 2025; updated 13 November 2025)",400,2025-11-18T10:10:16.8066667
+"Chair of Rotherham 9th Scouts Group. This is an unpaid role.
+(Registered 11 April 2023)",400,2024-04-18T15:20:17.9633333
 "Member of Goldthorpe Towns Fund Board. This is an unpaid role.
 Date interest arose: 1 May 2020
 Date interest ended: 23 May 2024
 (Registered 11 April 2023; updated 22 October 2025)",400,2025-11-04T15:54:40.9533333
-"Chair of Rotherham 9th Scouts Group. This is an unpaid role.
-(Registered 11 April 2023)",400,2024-04-18T15:20:17.9633333
 "Executive Committee Member of the British American Parliamentary Group. This is an unpaid role.
 Date interest arose: 12 July 2023
 Date interest ended: 4 July 2024
@@ -3247,24 +3323,24 @@ Purpose of visit: In-person Board meeting of the Canadian Audit and Accountabili
 "Member of the London Regional Board of the Labour Party.
 Date interest arose: 21 March 2024
 (Registered 26 April 2024)",1524,2024-05-02T15:43:34.2133333
-"Member of the Advisory Board of Reform, a cross party think tank. This is an unpaid role.
-Date interest arose: 25 May 2021
-(Registered 8 May 2024)",1524,2026-04-09T13:29:39.9925228
 "Trustee of the PCPF Pension scheme, which oversees the pension fund for members and former members of the UK House of Commons. This is an unpaid role.
 Date interest arose: 15 October 2020
 (Registered 8 May 2024)",1524,2024-05-15T18:18:21.9066667
+"Member of the Advisory Board of Reform, a cross party think tank. This is an unpaid role.
+Date interest arose: 25 May 2021
+(Registered 8 May 2024)",1524,2026-04-09T13:29:39.9925228
 "Member of the Steering Group of the Institute for Government Academy. This is an unpaid role.
 Date interest arose: 7 May 2024
 (Registered 9 May 2024)",1524,2024-05-15T18:18:21.9066667
 "Member of the Board of Directors of the Canadian Audit and Accountability Foundation. This is an unpaid role.
 Date interest arose: 26 September 2024
 (Registered 8 October 2024)",1524,2024-11-20T14:52:35.6771823
-"Chair of the House Magazine Advisory Board. This is an unpaid role.
-Date interest arose: 23 October 2024
-(Registered 31 October 2024)",1524,2024-11-20T15:05:10.7738275
 "Director and Trustee of the Commonwealth Parliamentary Association (UK Branch). This is an unpaid role.
 Date interest arose: 16 October 2024
 (Registered 31 October 2024)",1524,2024-11-20T15:07:17.1171636
+"Chair of the House Magazine Advisory Board. This is an unpaid role.
+Date interest arose: 23 October 2024
+(Registered 31 October 2024)",1524,2024-11-20T15:05:10.7738275
 "Type of land/property: Residential property (annex to residential property)
 Number of properties: 1
 Location: Hampshire
@@ -3357,19 +3433,19 @@ Destination of visit: Ukraine (Odessa, Kyiv, Chernobyl) and Moldova
 Dates of visit: 20 February 2026 to 25 February 2026
 Purpose of visit: Gain a greater understanding of the continuing impact of Russia's illegal invasion of Ukraine and the continuing war.
 (Registered 18 March 2026)",4813,2026-03-24T10:21:44.42
-"Name of donor: European Parliamentary Forum
-Address of donor: Square de Meeus 18, 1050 Brussels, Belgium
-Estimate of the probable value (or amount of any donation): Flights (Economy, £606 and £678), transfers (£100), accommodation (£663) and meals (150), value £2,197
-Destination of visit: Zambia
-Dates of visit: 12 April 2026 to 17 April 2026
-Purpose of visit: Study focussing on sexual and reproductive health and rights (SRHR) in Zambia, especially in rural areas and poorer parts of cities, including looking at cooperation and innovation.
-(Registered 18 May 2026)",4813,2026-05-19T09:45:27.0833333
 "Name of donor: Konrad-Adenauer-Stiftung
 Address of donor: 42 Essex Street, London WC2R 3JF
 Estimate of the probable value (or amount of any donation): Flights (Economy £181), transfers (£79.65), accommodation (£310.89) and meals (£88.25), value £659.79
 Destination of visit: Italy
 Dates of visit: 17 April 2026 to 19 April 2026
 Purpose of visit: British-German Parliamentary Dialogue with CDU and CSU Members of the German Bundestag.
+(Registered 18 May 2026)",4813,2026-05-19T09:45:27.0833333
+"Name of donor: European Parliamentary Forum
+Address of donor: Square de Meeus 18, 1050 Brussels, Belgium
+Estimate of the probable value (or amount of any donation): Flights (Economy, £606 and £678), transfers (£100), accommodation (£663) and meals (150), value £2,197
+Destination of visit: Zambia
+Dates of visit: 12 April 2026 to 17 April 2026
+Purpose of visit: Study focussing on sexual and reproductive health and rights (SRHR) in Zambia, especially in rural areas and poorer parts of cities, including looking at cooperation and innovation.
 (Registered 18 May 2026)",4813,2026-05-19T09:45:27.0833333
 "Executive Committee Member of the British-American Parliamentary Group. This is an unpaid role.
 Date interest arose: 30 October 2024
@@ -3416,14 +3492,14 @@ Interest held: from 22 December 2021
 Nature of business: A multi-brand lettings and estate agency franchising group.
 Interest held: from 19 March 2021
 (Registered 26 April 2021; updated 27 April 2021)",4474,2024-04-18T15:14:24.64
+"Unpaid Director of C&UCO Management Limited
+Date interest arose: 23 July 2025
+(Registered 14 August 2025)",4474,2025-09-02T11:01:09.5566667
 "Unpaid Director of C&UCO Properties Limited
 Date interest arose: 23 July 2025
 (Registered 14 August 2025)",4474,2025-09-02T11:01:09.5566667
 "Unpaid Director of C&UCO Services Limited
 Date interest arose: 23 July 1025
-(Registered 14 August 2025)",4474,2025-09-02T11:01:09.5566667
-"Unpaid Director of C&UCO Management Limited
-Date interest arose: 23 July 2025
 (Registered 14 August 2025)",4474,2025-09-02T11:01:09.5566667
 "Name of donor: Lawn Tennis Association
 Address of donor: The National Tennis Centre, 100 Priory Lane, Roehampton, London SW15 5JQ
@@ -3539,12 +3615,9 @@ Date interest arose: 5 May 2026
 From: 15 July 2025. Until: 30 June 2028.
 Payer: British Horseracing Authority's Horse Welfare Board, Holborn Gate, 26 Southampton Buildings, London WC2A 1AN
 (Registered 25 July 2025)",4853,2025-08-05T09:51:33.9966667
-"Fellow of the Royal College of Veterinary Surgeons.
-(Registered 7 January 2020)",4853,2024-04-18T15:20:17.9633333
-"On unpaid sabbatical leave as a senior lecturer from the University of Edinburgh from 1 January 2020.
-Date interest ended: 12 May 2025
-(Registered 7 January 2020; updated 7 May 2025)",4853,2025-05-13T14:40:19.52
 "Member of the British Equine Veterinary Association.
+(Registered 7 January 2020)",4853,2024-04-18T15:20:17.9633333
+"Fellow of the Royal College of Veterinary Surgeons.
 (Registered 7 January 2020)",4853,2024-04-18T15:20:17.9633333
 "Role, work or services: speaking engagement
 Payer: Chartwell Partners Ltd (Publishing Agent), 123 Buckingham Palace Road, London SW1W 9SH
@@ -3565,6 +3638,10 @@ Payer: Intelligence Squared Ltd (Events production, debates, discussions and pod
 From: 12 February 2026. Until: 12 February 2027.
 Payer: RL Datix (EBT) Ltd (Global healthcare technology company that provides cloud-based software solutions to help healthcare and care organisations to improve safety, quality, workforce management, governance, risk and regulatory compliance.), 2nd Floor, 1 Church Rd, Richmond upon Thames, TW9 2QE
 (Registered 3 March 2026)",1572,2026-03-10T14:51:06.16
+"Role, work or services: Speaking engagement in Japan
+From: 20 April 2026. Until: 23 April 2026.
+Payer: Oxford Institute of Digital Health, University of Oxford, Radcliffe Primary Care Building, Oxford OX2 6GG
+(Registered 19 May 2026)",1572,2026-06-03T10:07:17.0566667
 "Name of donor: Charlie Nunn
 Address of donor: Lloyd Banking Group, 8th Floor, 33 Old Broad Street, London EC2N 1HZ
 Amount of donation or nature and value if donation in kind: Two tickets to Chelsea Flower show, value £605
@@ -3593,6 +3670,13 @@ Date received: 8 July 2025
 Date accepted: 8 July 2025
 Donor status: company, registration 07459469
 (Registered 22 July 2025)",1572,2025-08-05T09:51:22.8233333
+"Name of donor: Lloyds Banking Group (Charlie Nunn, Group Chief Executive)
+Address of donor: 8th floor, 33 Old Broad St, London EC2N 1HZ
+Amount of donation or nature and value if donation in kind: Two tickets and hospitality (dinner and champagne reception) for the Chelsea Flower show, value £919.50
+Date received: 18 May 2026
+Date accepted: 18 May 2026
+Donor status: company, registration SC095000
+(Registered 19 May 2026)",1572,2026-06-03T10:07:17.0566667
 "Name of donor: Gibraltar Tourist Board
 Address of donor: Eurosuites, 3rd floor, Block4, Eurotowers, Europort Rd, Gibraltar
 Estimate of the probable value (or amount of any donation): Flights, UK airport transfers, hotel for myself and my wife and a speaking fee, value £1,590.44
@@ -3640,6 +3724,12 @@ Interest held: from 29 July 2024
 "Unpaid Director, Trustee and Chairman of Patient Safety Watch. These are unpaid roles.
 Date interest arose: 6 November 2024
 (Registered 15 April 2025)",1572,2025-04-29T11:04:13.5766667
+"Unpaid board member of Patient Safety Movement Foundation
+Date interest arose: 6 May 2026
+(Registered 21 May 2026)",1572,2026-06-03T10:07:17.0566667
+"Global Patient Safety Leadership Council Member
+Date interest arose: 19 January 2026
+(Registered 21 May 2026)",1572,2026-06-03T10:07:17.0566667
 "Name of donor: Channel Four Television Company Limited
 Address of donor: 124 Horseferry Road, London SW1P 2TX
 Amount of donation or nature and value if donation in kind: one ticket to the BAFTA Television Awards, including drinks reception and dinner, value £750
@@ -3764,14 +3854,28 @@ Date received: 11 December 2025
 Date accepted: 11 December 2025
 Donor status: company, registration 03201382
 (Registered 17 December 2025)",4243,2026-01-06T10:53:25.9866667
-"Unpaid Director of Barnsley TUC Training Ltd, a local education charity.
-Date interest arose: 5 November 2013
-Date interest ended: 12 December 2025
-(Registered 20 February 2025; updated 18 February 2026)",4243,2026-02-26T14:51:20.2827755
+"Name of donor: Barnsley Football Club
+Address of donor: Oakwell Stadium, Barnsley S71 1ET
+Amount of donation or nature and value if donation in kind: Three tickets, which included hospitality, to the Barnsley v Lincoln football match (value estimated), value £450
+Date received: 29 December 2025
+Date accepted: 29 December 2025
+Donor status: company, registration 04573250
+(Registered 21 May 2026)",4243,2026-06-03T10:07:17.0566667
+"Name of donor: Barnsley Football Club
+Address of donor: Oakwell Stadium, Barnsley S71 1ET
+Amount of donation or nature and value if donation in kind: Two tickets, which included hospitality, to Barnsley v Huddersfield football match (value estimated), value £300
+Date received: 30 August 2025
+Date accepted: 30 August 2025
+Donor status: company, registration 04573250
+(Registered 22 May 2026)",4243,2026-06-03T10:07:17.0566667
 "Trustee of Barnsley TUC Training Ltd, a local education charity. This is an unpaid role.
 Date interest arose: 5 November 2013
 Date interest ended: 12 December 2025
 (Registered 20 February 2025; updated 20 March 2026)",4243,2026-03-24T10:21:44.42
+"Unpaid Director of Barnsley TUC Training Ltd, a local education charity.
+Date interest arose: 5 November 2013
+Date interest ended: 12 December 2025
+(Registered 20 February 2025; updated 18 February 2026)",4243,2026-02-26T14:51:20.2827755
 "Role, work or services: Speaking engagement
 Until: 15 April 2026.
 Payer: El Espaniol, (National newspaper in Spain), Avenida de Burgos 16, 28036 Comunidad de Madrid, Spain
@@ -3876,10 +3980,10 @@ Date received: 13 March 2026
 Date accepted: 13 March 2026
 Donor status: company, registration 00679215
 (Registered 9 April 2026)",4320,2026-04-14T09:26:49.9166667
-"Director of Conservative Friends of America Ltd, an organisation which encourages links between the United Kingdom and the United States. This is an unpaid role.
+"Chairman of Conservative Friends of Ukraine, an organisation which encourages links between the Conservative Party, the Ukrainian community in the United Kingdom and Ukraine. This is an unpaid role.
 Date interest arose: 11 July 2022
 (Registered 14 July 2022)",4320,2024-04-18T15:16:24.9166667
-"Chairman of Conservative Friends of Ukraine, an organisation which encourages links between the Conservative Party, the Ukrainian community in the United Kingdom and Ukraine. This is an unpaid role.
+"Director of Conservative Friends of America Ltd, an organisation which encourages links between the United Kingdom and the United States. This is an unpaid role.
 Date interest arose: 11 July 2022
 (Registered 14 July 2022)",4320,2024-04-18T15:16:24.9166667
 "Member of Newark Town Board. This is an unpaid role.
@@ -4197,11 +4301,11 @@ Interest held: from 3 November 2015
 (Registered 15 December 2015)",4505,2024-04-18T15:16:10.8033333
 "Name of donor: The Football Association Premier League
 Address of donor: Brunel Building, 57 North Wharf Road, London W2 1HQ
-Amount of donation or nature and value if donation in kind: Football match and hospitality for David Lammy and guest. A donation of £856 was made by David Lammy to the Premier League Charitable Foundation in thanks., value £856
+Amount of donation or nature and value if donation in kind: Football match and hospitality for David Lammy and guest. A donation of £856 was made by David Lammy to the Premier League Charitable Foundation in thanks, value £856
 Date received: 22 March 2026
 Date accepted: 22 March 2026
 Donor status: company, registration 02719699
-(Registered 15 April 2026; updated 30 April 2026)",206,2026-05-19T09:45:02.0966667
+(Registered 15 April 2026; updated 30 April 2026)",206,2026-05-27T14:08:04.1728836
 "Type of land/property: Residential property
 Number of properties: 1
 Location: Tottenham
@@ -4222,13 +4326,18 @@ Address of donor: private
 Amount of donation or nature and value if donation in kind: £2,500
 Donor status: individual
 (Registered 3 December 2025)",4608,2025-12-16T10:57:41.7166667
-"I am a member of the Rail Action Group East of Scotland (RAGES).
-(Registered 26 June 2017)",4608,2024-04-18T15:14:53.1666667
-"Solicitor (non-practising).
-(Registered 26 June 2017)",4608,2024-04-18T15:14:53.1666667
+"Name of donor: Ian McVeigh
+Address of donor: private
+Amount of donation or nature and value if donation in kind: £10,000
+Donor status: individual
+(Registered 22 May 2026)",4608,2026-06-03T10:07:17.0566667
 "I am a member of the Law Society of England and Wales.
 (Registered 26 June 2017)",4608,2024-04-18T15:14:53.1666667
 "I am a trustee of the St Abbs Lifeboat Trust.
+(Registered 26 June 2017)",4608,2024-04-18T15:14:53.1666667
+"I am a member of the Rail Action Group East of Scotland (RAGES).
+(Registered 26 June 2017)",4608,2024-04-18T15:14:53.1666667
+"Solicitor (non-practising).
 (Registered 26 June 2017)",4608,2024-04-18T15:14:53.1666667
 "Name of donor: QTS Data Centres
 Address of donor: 14-15 Conduit Street, London WIS2XJ
@@ -4257,12 +4366,12 @@ Purpose of visit: To attend the Global Buddhist Summit
 (Registered 20 February 2026)",4403,2026-04-08T10:34:46.6397133
 "Type of land/property: Residential property (flat)
 Number of properties: 1
-Location: Aberdeen
-Ownership details: owned by CMAL Ltd
+Location: Dundee
 (Registered 26 May 2015)",4403,2024-04-18T15:16:46.0833333
 "Type of land/property: Residential property (flat)
 Number of properties: 1
-Location: Dundee
+Location: Aberdeen
+Ownership details: owned by CMAL Ltd
 (Registered 26 May 2015)",4403,2024-04-18T15:16:46.0833333
 "Name of company or organisation: CMAL Limited
 Nature of business: Financial services company
@@ -4311,18 +4420,15 @@ Donor status: company, registration 03300783
 (Registered 10 September 2025)",4277,2025-10-21T10:54:59.7078573
 "Honorary member of the Catholic Union.
 (Registered 15 September 2015)",4277,2024-04-18T15:15:00.22
-"A patron of the Social Care Worker of the Year Awards.
-Date interest arose: 1 July 2016
-(Registered 18 July 2016)",4277,2024-04-18T15:15:00.22
 "A patron of the Every Child Leaving Care Matters organisation.
 Date interest arose: 1 January 2016
+(Registered 18 July 2016)",4277,2024-04-18T15:15:00.22
+"A patron of the Social Care Worker of the Year Awards.
+Date interest arose: 1 July 2016
 (Registered 18 July 2016)",4277,2024-04-18T15:15:00.22
 "Deputy Convenor of the Catholic Legislators Network.
 Date interest arose: 12 July 2017
 (Registered 19 July 2017)",4277,2024-04-18T15:15:00.22
-"Chair of the Labour Friends of Kosovo group
-Date interest arose: 23 July 2024
-(Registered 2 August 2024)",4277,2024-08-16T15:00:56.0466667
 "Unpaid Board Member, Sea Change Cafe, South Shields (Sea Change Cafe is a Community Interest Company)
 Date interest arose: 23 March 2023
 (Registered 2 August 2024)",4277,2026-02-09T14:17:55.459358
@@ -4330,6 +4436,9 @@ Date interest arose: 23 March 2023
 Date interest arose: 16 July 2024
 Date interest ended: 18 July 2025
 (Registered 2 August 2024)",4277,2024-08-16T15:02:09.5066667
+"Chair of the Labour Friends of Kosovo group
+Date interest arose: 23 July 2024
+(Registered 2 August 2024)",4277,2024-08-16T15:00:56.0466667
 "Member of the Advisory Council, Sea Power Laboratory at the Council on Geostrategy.  This is an unpaid role
 Date interest arose: 22 October 2024
 (Registered 22 October 2024)",4277,2025-10-23T15:11:38.2774757
@@ -4438,17 +4547,17 @@ Date accepted: 15 October 2025
 Donor status: company, registration 14233179
 (Registered 16 October 2025)",4500,2025-10-21T14:20:17.3066667
 "Name of donor: Compass - Together for a Good Society Ltd
-Address of donor: 10 Salamanca Place, SE1 7HB
-Amount of donation or nature and value if donation in kind: Travel and refreshments provided as part of attendance at a meeting (approximate), value £294.88
-Date received: 22 November 2025
-Date accepted: 22 November 2025
-Donor status: company, registration 05391145
-(Registered 27 November 2025)",4500,2025-12-02T09:18:37.4033333
-"Name of donor: Compass - Together for a Good Society Ltd
 Address of donor: 10 Salamanca Place, London SE1 7HB
 Amount of donation or nature and value if donation in kind: Ticket provided as part of a speaking engagement, delivering the Robin Cook Memorial Lecture, value £7
 Date received: 18 September 2025
 Date accepted: 18 September 2025
+Donor status: company, registration 05391145
+(Registered 27 November 2025)",4500,2025-12-02T09:18:37.4033333
+"Name of donor: Compass - Together for a Good Society Ltd
+Address of donor: 10 Salamanca Place, SE1 7HB
+Amount of donation or nature and value if donation in kind: Travel and refreshments provided as part of attendance at a meeting (approximate), value £294.88
+Date received: 22 November 2025
+Date accepted: 22 November 2025
 Donor status: company, registration 05391145
 (Registered 27 November 2025)",4500,2025-12-02T09:18:37.4033333
 "Name of donor: Compass - Together for a Good Society Ltd
@@ -4499,14 +4608,14 @@ Date interest arose: 7 May 2025
 "Crowdfunder run by myself (via Toussaint Ventures Ltd) to raise funds to support my political activities. Donations that meet the threshold will be registered under Category 2.
 Date interest arose: 18 May 2025
 (Registered 4 June 2025)",4500,2025-06-17T09:22:17.8233333
+"Editorial Board member, Renewal: A Journal of Social Democracy (published by Compass - Together for a Good Society Ltd). This is an unpaid role.
+Date interest arose: 3 June 2025
+(Registered 4 June 2025)",4500,2025-06-17T09:22:17.8233333
 "Chair of the British Caribbean Association
 Date interest arose: 1 March 2023
 (Registered 4 June 2025)
 This is a late entry to which the rectification procedure was applied on 1 September 2025. Paragraph 51 of the Procedural Protocol in respect of the Code 
 of Conduct refers.",4500,2025-09-17T08:37:02.4666667
-"Editorial Board member, Renewal: A Journal of Social Democracy (published by Compass - Together for a Good Society Ltd). This is an unpaid role.
-Date interest arose: 3 June 2025
-(Registered 4 June 2025)",4500,2025-06-17T09:22:17.8233333
 "Vice Chair of the Climate and Nature Crisis Caucus. The secretariat is provided by Zero Hour Ltd. Related donations that meet the threshold will be registered separately.
 Date interest arose: 15 July 2025
 (Registered 21 July 2025)",4500,2025-08-05T09:51:22.8233333
@@ -4530,15 +4639,15 @@ Location: London
 Interest held: from 22 December 2014
 Rental income: from 5 February 2015
 (Registered 5 February 2015)",54,2024-04-18T15:16:46.0833333
-"Name of donor: Coca Cola Europacific Partners
-Address of donor: Pemberton House Bakers Road Uxbridge, Middlesex UB8 1EZ
-Amount of donation or nature and value if donation in kind: £5,000 sponsorship of Yorkshire Day dinner
-Donor status: company, registration 09717350
-(Registered 14 August 2025)",4943,2025-09-02T11:01:09.5566667
 "Name of donor: UKREiiF (The UK's Real Estate Investment and Infrastructure Forum)
 Address of donor: 5th Floor, 133 Houndsditch, London EC3A 7BX
 Amount of donation or nature and value if donation in kind: £950 in buying tickets for a table at the Yorkshire Day dinner
 Donor status: company, registration 15086201
+(Registered 14 August 2025)",4943,2025-09-02T11:01:09.5566667
+"Name of donor: Coca Cola Europacific Partners
+Address of donor: Pemberton House Bakers Road Uxbridge, Middlesex UB8 1EZ
+Amount of donation or nature and value if donation in kind: £5,000 sponsorship of Yorkshire Day dinner
+Donor status: company, registration 09717350
 (Registered 14 August 2025)",4943,2025-09-02T11:01:09.5566667
 "Name of donor: UNISON
 Address of donor: UNISON Centre, 130 Euston Road, London NW1 2AY
@@ -4556,13 +4665,6 @@ Ownership details: I own jointly with my husband
 (Registered 3 February 2020)",4857,2024-04-18T15:16:46.0833333
 "Governor of Dickson Primary School, Lurgan, Magheralin Primary School and Lurgan Junior High School.
 (Registered 3 February 2020)",4857,2024-04-18T15:15:00.22
-"Name of donor: Bakers, Food and Allied Workers Union
-Address of donor: Stanborough House, Great North Road, Stanborough, Welwyn Garden City AL8 7TA
-Amount of donation or nature and value if donation in kind: Administration and coordination of the BFAWU Parliamentary Group, which I chair, provided by Solidarity Consulting Ltd, value £18,516
-Date received: 29 October 2024 to 28 October 2025
-Date accepted: 29 October 2024
-Donor status: trade union
-(Registered 8 November 2024)",4396,2024-11-13T15:11:23.08
 "Name of donor: National Union of Journalists (NUJ)
 Address of donor: 72 Acton Street, London WC1X 9NB
 Amount of donation or nature and value if donation in kind: the administration and coordination of the NUJ Parliamentary Group of which I am the Co-Chair, provided by Solidarity Consulting Ltd between 22  October 2024 to 21 October 2025, value £18,672
@@ -4572,16 +4674,23 @@ Donor status: trade union
 (Registered 8 November 2024)",4396,2024-11-13T15:11:23.08
 "Name of donor: Bakers, Food and Allied Workers Union
 Address of donor: Stanborough House, Great North Road, Stanborough, Welwyn Garden City AL8 7TA
-Amount of donation or nature and value if donation in kind: Administration and coordination of the BFAWU Parliamentary Group, which I chair, provided by Solidarity Consulting Ltd, value £19,440
-Date received: 30 October 2025 to 29 October 2026
-Date accepted: 30 October 2025
+Amount of donation or nature and value if donation in kind: Administration and coordination of the BFAWU Parliamentary Group, which I chair, provided by Solidarity Consulting Ltd, value £18,516
+Date received: 29 October 2024 to 28 October 2025
+Date accepted: 29 October 2024
 Donor status: trade union
-(Registered 19 November 2025)",4396,2025-12-02T09:18:14.72
+(Registered 8 November 2024)",4396,2024-11-13T15:11:23.08
 "Name of donor: National Union of Journalists
 Address of donor: 72 Acton Street, London WC1X 9NB
 Amount of donation or nature and value if donation in kind: The administration and coordination of the NUJ Parliamentary Group of which I am the Co-Chair, provided by Solidarity Consulting Ltd between 22 October 2025 to 21 October 2026, value £19,606
 Date received: 22 October 2025 to 21 October 2026
 Date accepted: 22 October 2025
+Donor status: trade union
+(Registered 19 November 2025)",4396,2025-12-02T09:18:14.72
+"Name of donor: Bakers, Food and Allied Workers Union
+Address of donor: Stanborough House, Great North Road, Stanborough, Welwyn Garden City AL8 7TA
+Amount of donation or nature and value if donation in kind: Administration and coordination of the BFAWU Parliamentary Group, which I chair, provided by Solidarity Consulting Ltd, value £19,440
+Date received: 30 October 2025 to 29 October 2026
+Date accepted: 30 October 2025
 Donor status: trade union
 (Registered 19 November 2025)",4396,2025-12-02T09:18:14.72
 "Name of donor: Key Cities (Network)
@@ -4781,12 +4890,12 @@ Date interest arose: 1 June 2022
 (Registered 1 June 2022)",4484,2024-04-18T15:15:00.22
 "Type of land/property: Residential property
 Number of properties: 1
-Location: Brentford
-Rental income: Yes
+Location: London SW3
 (Registered 22 December 2011)",4253,2024-04-18T15:16:46.0833333
 "Type of land/property: Residential property
 Number of properties: 1
-Location: London SW3
+Location: Brentford
+Rental income: Yes
 (Registered 22 December 2011)",4253,2024-04-18T15:16:46.0833333
 "Chair of Hounslow’s Promise, a charity set up by local MPs, schools, businesses and community organisations to support the education attainment, social mobility and employability of young people in Hounslow.
 Date interest arose: 10 June 2019
@@ -4853,12 +4962,6 @@ Rental income: Yes
 "Type of land/property: Agricultural land
 Location: Suffolk
 (Registered 7 January 2020)",4739,2024-04-18T15:15:49.62
-"Type of land/property: Residential property (houses)
-Number of properties: 2
-Location: Norfolk
-Ownership details: Held on behalf of my dependent children
-Rental income: Yes
-(Registered 7 January 2020)",4739,2024-04-18T15:15:56.6866667
 "Type of land/property: Residential property (house)
 Number of properties: 1
 Location: London
@@ -4866,6 +4969,12 @@ Ownership details: Owned jointly with my spouse
 Rental income: Yes
 Rental income details: Received by my spouse
 (Registered 7 January 2020)",4739,2024-04-18T15:15:49.62
+"Type of land/property: Residential property (houses)
+Number of properties: 2
+Location: Norfolk
+Ownership details: Held on behalf of my dependent children
+Rental income: Yes
+(Registered 7 January 2020)",4739,2024-04-18T15:15:56.6866667
 "Type of land/property: Residential property (house)
 Number of properties: 1
 Location: Co Cork, Ireland
@@ -4883,9 +4992,6 @@ Date interest arose: 25 June 2020
 (Registered 6 July 2020; updated 17 November 2021)",4739,2024-04-18T15:14:24.64
 "My shareholding in Adventure Forest Group Ltd (adventure leisure) was transferred into an employee ownership trust on 21 October 2021. As part of this agreement a value for my shareholding is scheduled to be repaid to me periodically over the next 10 years.
 (Registered 25 November 2021)",4739,2024-04-18T15:20:17.9633333
-"Unpaid director of Walsingham Estate Properties Ltd
-Date interest arose: 22 January 2026
-(Registered 25 February 2026)",4739,2026-03-10T14:51:06.16
 "Director of Walsingham Estate Properties 2024 Limited
 Date interest arose: 27 November 2024
 (Registered 25 February 2026)",4739,2026-03-10T14:51:06.16
@@ -4895,9 +5001,19 @@ Date interest arose: 22 January 2026
 "Unpaid director of Walsingham Estate Farming Ltd
 Date interest arose: 22 January 2026
 (Registered 25 February 2026)",4739,2026-03-10T14:51:06.16
+"Unpaid director of Walsingham Estate Properties Ltd
+Date interest arose: 22 January 2026
+(Registered 25 February 2026)",4739,2026-03-10T14:51:06.16
 "Director of Walsingham Estate Company 2024 Limited
 Date interest arose: 27 November 2024
 (Registered 9 March 2026)",4739,2026-03-10T14:51:06.16
+"Name of donor: Borneo Orangutan Survival Foundation UK
+Address of donor: 483 Green Lanes, London N13 4BS
+Estimate of the probable value (or amount of any donation): Flights (£2073.55), medical screening tests (£340.00), accommodation (£360.94) and wider expenses (£237.56), value £3,012.04
+Destination of visit: Indonesia and Malaysia
+Dates of visit: 26 March 2026 to 10 April 2026
+Purpose of visit: Conservation visit with cross-party MPs to see work of the charity in action and impact of deforestation and palm oil supply chain on Borneo, hosted by international conservation organisation
+(Registered 21 May 2026)",1491,2026-06-03T10:07:17.0566667
 "Solicitor (not currently employed as such).
 (Registered 28 December 2012)",4269,2024-04-18T15:14:31.7066667
 "Name of donor: Public and Commercial Services Union (PCS)
@@ -4950,16 +5066,16 @@ Date interest arose: 3 November 2025
 (Registered 4 November 2025)",4125,2025-11-18T10:09:54.13
 "Name of donor: Oldham Athletic Football Club
 Address of donor: Boundary Park, Furtherwood Road, Oldham OL1 2PA
-Amount of donation or nature and value if donation in kind: Two matchday and hospitality tickets for a fixture on Good Friday (estimated total value), value £110
-Date received: 18 April 2025
-Date accepted: 18 April 2025
+Amount of donation or nature and value if donation in kind: Two matchday tickets including hospitality to the National League Promotion Final at Wembley Stadium (estimated value per ticket £290.) (One of the tickets was given to the club by the National League), value £580
+Date received: 1 June 2025
+Date accepted: 1 June 2025
 Donor status: company, registration 04989487
 (Registered 30 June 2025)",4569,2025-07-01T10:56:55.0766667
 "Name of donor: Oldham Athletic Football Club
 Address of donor: Boundary Park, Furtherwood Road, Oldham OL1 2PA
-Amount of donation or nature and value if donation in kind: Two matchday tickets including hospitality to the National League Promotion Final at Wembley Stadium (estimated value per ticket £290.) (One of the tickets was given to the club by the National League), value £580
-Date received: 1 June 2025
-Date accepted: 1 June 2025
+Amount of donation or nature and value if donation in kind: Two matchday and hospitality tickets for a fixture on Good Friday (estimated total value), value £110
+Date received: 18 April 2025
+Date accepted: 18 April 2025
 Donor status: company, registration 04989487
 (Registered 30 June 2025)",4569,2025-07-01T10:56:55.0766667
 "Name of donor: UK Friends of Ukraine
@@ -4975,15 +5091,15 @@ Date interest arose: 1 May 2018
 "Name of company or organisation: Llais Ltd (inactive)
 Nature of business: Policy communications
 (Registered 6 July 2017)",4632,2024-04-18T15:16:17.8666667
-"Role, work or services: Writing articles
-Payer: Reach Group Limited, 21st Floor, One Canada Square, Canary Wharf, London E14 5AP
-ACOBA consulted: Yes
-(Updated 29 November 2024)",4084,2024-12-11T12:57:49.5566667
 "Role, work or services: Panelist on TV programme
 From: 14 January 2025.
 Payer: GB News, Riverbank House, 2 Swan Lane, London EC4R 3TT
 ACOBA consulted: Yes
 (Updated 24 January 2025)",4084,2025-02-04T13:36:45.63
+"Role, work or services: Writing articles
+Payer: Reach Group Limited, 21st Floor, One Canada Square, Canary Wharf, London E14 5AP
+ACOBA consulted: Yes
+(Updated 29 November 2024)",4084,2024-12-11T12:57:49.5566667
 "Role, work or services: Guest on TV show
 Payer: News UK, 1 London Bridge Street, London, SE1 9GF
 ACOBA consulted: Yes
@@ -5201,6 +5317,11 @@ Donor status: trade union
 From: 1 December 2022. Until: 1 December 2025.
 Payer: CSA Catapult Innovation Centre (a centre established to help the UK become a global leader in compound semiconductors), Imperial Park Innovation Centre, Celtic Way, Newport NP10 8BE
 (Registered 19 December 2022; updated 12 April 2023, 30 June 2023 and 2 August 2024)",4656,2024-08-16T15:00:39.82
+"Name of donor: Peter Frankopan
+Address of donor: private
+Amount of donation or nature and value if donation in kind: £2,400 paid in monthly instalments between January 2025 and December 2025
+Donor status: individual
+(Registered 9 January 2025)",4656,2025-01-22T13:17:05.97
 "Name of donor: Dermot Roaf
 Address of donor: private
 Amount of donation or nature and value if donation in kind: £1,800 paid in monthly instalments between January 2025 and December 2025
@@ -5211,26 +5332,16 @@ Address of donor: private
 Amount of donation or nature and value if donation in kind: £2,400 paid in monthly instalments between January 2025 and December 2025
 Donor status: individual
 (Registered 9 January 2025)",4656,2025-01-22T13:17:05.97
-"Name of donor: Peter Frankopan
-Address of donor: private
-Amount of donation or nature and value if donation in kind: £2,400 paid in monthly instalments between January 2025 and December 2025
-Donor status: individual
-(Registered 9 January 2025)",4656,2025-01-22T13:17:05.97
-"Name of donor: Elena Simpson
-Address of donor: private
-Amount of donation or nature and value if donation in kind: £2,000
-Donor status: individual
-(Registered 20 May 2025)",4656,2025-06-03T08:58:33.2766667
 "Name of donor: Hugo Brunner
 Address of donor: private
 Amount of donation or nature and value if donation in kind: £1,000
 Donor status: individual
 (Registered 20 May 2025)",4656,2025-06-03T08:58:33.2766667
-"Name of donor: Peter Frankopan
+"Name of donor: Elena Simpson
 Address of donor: private
-Amount of donation or nature and value if donation in kind: £2,400 paid in monthly instalments of £200 between 8th January 2026 and December 2026
+Amount of donation or nature and value if donation in kind: £2,000
 Donor status: individual
-(Registered 3 February 2026)",4656,2026-02-24T09:58:57.5333333
+(Registered 20 May 2025)",4656,2025-06-03T08:58:33.2766667
 "Name of donor: Dermot Roaf
 Address of donor: private
 Amount of donation or nature and value if donation in kind: £1,800 paid in monthly instalments of £150 between 2nd January 2026 and December 2026
@@ -5239,6 +5350,11 @@ Donor status: individual
 "Name of donor: Hugo Brunner
 Address of donor: private
 Amount of donation or nature and value if donation in kind: £2,400 paid in monthly instalments of £200 between 15th January 2026 and December 2026
+Donor status: individual
+(Registered 3 February 2026)",4656,2026-02-24T09:58:57.5333333
+"Name of donor: Peter Frankopan
+Address of donor: private
+Amount of donation or nature and value if donation in kind: £2,400 paid in monthly instalments of £200 between 8th January 2026 and December 2026
 Donor status: individual
 (Registered 3 February 2026)",4656,2026-02-24T09:58:57.5333333
 "Name of donor: Kingdom of Bahrain
@@ -5311,24 +5427,19 @@ Donor status: company, registration 01528489
 (Registered 12 May 2026)",4934,2026-05-19T09:45:27.0833333
 "Type of land/property: Residential property (house)
 Number of properties: 1
-Location: Buckinghamshire
+Location: Cumbria
 Ownership details: Owned jointly with my husband
 Rental income: Yes
 (Registered 7 January 2022)",4934,2024-04-18T15:15:35.52
 "Type of land/property: Residential property (house)
 Number of properties: 1
-Location: Cumbria
+Location: Buckinghamshire
 Ownership details: Owned jointly with my husband
 Rental income: Yes
 (Registered 7 January 2022)",4934,2024-04-18T15:15:35.52
 "A Vice President of the Local Government Association. This is an unpaid role.
 Date interest arose: 8 February 2023
 (Registered 24 February 2023)",4934,2024-04-18T15:14:31.7066667
-"Name of donor: Mr Abdul Sattar Shere-Mohammod (known as Shere M Sattar)
-Address of donor: private
-Amount of donation or nature and value if donation in kind: £5,000 the donation was made to Portsmouth Labour Party and paid to the Portsmouth Labour Party bank account and was to raise money for Portsmouth Labour Party  for my re-election and support ongoing campaigns. The donation was repaid on 11 August 2025
-Donor status: individual
-(Registered 11 December 2025)",4653,2026-02-09T16:47:03.510542
 "Name of donor: Mr Adbul Sattar Shere-Mohammod (known as Shere M Sattar)
 Address of donor: private
 Amount of donation or nature and value if donation in kind: £5,000 the donation was made to Portsmouth Labour Party via a crowdfunder page organised and administered by the Portsmouth Labour Party. The donation was paid to the Portsmouth Labour Party bank account and was to raise money for Portsmouth Labour Party to help my re-election and support ongoing campaigns. The donation was repaid on 11 August 2025
@@ -5343,6 +5454,11 @@ Donor status: individual
 (Registered 11 December 2025)
 This is a late entry to which the rectification procedure was applied on 5 January 2026. Paragraph 51 of the Procedural Protocol in respect of the Code of 
 Conduct refers.",4653,2026-01-06T10:53:49.5533333
+"Name of donor: Mr Abdul Sattar Shere-Mohammod (known as Shere M Sattar)
+Address of donor: private
+Amount of donation or nature and value if donation in kind: £5,000 the donation was made to Portsmouth Labour Party and paid to the Portsmouth Labour Party bank account and was to raise money for Portsmouth Labour Party  for my re-election and support ongoing campaigns. The donation was repaid on 11 August 2025
+Donor status: individual
+(Registered 11 December 2025)",4653,2026-02-09T16:47:03.510542
 "Name of donor: Portsmouth Football Club
 Address of donor: Fratton Park, Frogmore Road, Portsmouth, Hampshire PO4 8RA
 Amount of donation or nature and value if donation in kind: A ticket to a game including hospitality, value £170
@@ -5475,20 +5591,20 @@ Rental income: from 6 June 2024
 "Name of company or organisation: 100MPH Events Limited (dormant)
 Nature of business: Event management
 (Updated 31 July 2023)",3966,2024-04-18T15:16:17.8666667
+"Director of 100MPH Events Limited (dormant). This is an unpaid role.
+Date interest arose: 22 October 2001
+(Registered 31 July 2023)",3966,2026-02-12T11:13:44.11224
 "Director of IM Campaigns Ltd (dormant). This is an unpaid role.
 Date interest arose: 2 June 2020
 (Registered 31 July 2023)",3966,2024-04-18T15:14:31.7066667
 "Director of the Commonwealth Parliamentary Association (United Kingdom).
 Date interest arose: 12 July 2017
 (Registered 31 July 2023)",3966,2024-04-18T15:14:31.7066667
-"Director of 100MPH Events Limited (dormant). This is an unpaid role.
-Date interest arose: 22 October 2001
-(Registered 31 July 2023)",3966,2026-02-12T11:13:44.11224
-"Trustee of McRaes Batallion Trust. This is an unpaid role.
-Date interest arose: 1 May 2004
-(Registered 2 August 2023)",3966,2024-04-18T15:14:31.7066667
 "Trustee of the Royal Observatory Trust. This is an unpaid role.
 Date interest arose: 1 October 2010
+(Registered 2 August 2023)",3966,2024-04-18T15:14:31.7066667
+"Trustee of McRaes Batallion Trust. This is an unpaid role.
+Date interest arose: 1 May 2004
 (Registered 2 August 2023)",3966,2024-04-18T15:14:31.7066667
 "Name of donor: Mentorn Media
 Address of donor: Tinopolis Centre, Park Street, Llanelli, Carmarthenshire SA15 3YE
@@ -5627,16 +5743,16 @@ Date interest arose: 17 January 2025
 (Registered 12 March 2025)",3991,2025-03-25T12:18:36.82
 "Name of donor: Nottingham Forest Football Club
 Address of donor: The City Ground, Pavilion Road, Nottingham NG2 5FJ
-Amount of donation or nature and value if donation in kind: Ticket and hospitality for Nottingham Forest vs Manchester United, value £250
-Date received: 1 November 2025
-Date accepted: 1 November 2025
+Amount of donation or nature and value if donation in kind: Ticket and hospitality to Nottingham Forest vs. Brighton fixture at the City Ground, value £250
+Date received: 1 February 2025
+Date accepted: 1 February 2025
 Donor status: company, registration 1630402
 (Registered 28 November 2025)",4641,2025-12-02T09:18:37.4033333
 "Name of donor: Nottingham Forest Football Club
 Address of donor: The City Ground, Pavilion Road, Nottingham NG2 5FJ
-Amount of donation or nature and value if donation in kind: Ticket and hospitality to Nottingham Forest vs. Brighton fixture at the City Ground, value £250
-Date received: 1 February 2025
-Date accepted: 1 February 2025
+Amount of donation or nature and value if donation in kind: Ticket and hospitality for Nottingham Forest vs Manchester United, value £250
+Date received: 1 November 2025
+Date accepted: 1 November 2025
 Donor status: company, registration 1630402
 (Registered 28 November 2025)",4641,2025-12-02T09:18:37.4033333
 "Chair of Governors at Rosslyn Park Primary & Nursery School in Nottingham. This is an unpaid position.
@@ -5714,13 +5830,6 @@ Date accepted: 30 January 2025
 Donor status: individual
 (Registered 11 November 2025)
 This is a late entry to which the rectification procedure was applied on 1 December 2025. Paragraph 51 of the Procedural Protocol in respect of the Code of Conduct refers.",4124,2025-12-02T09:18:37.4033333
-"Name of donor: Newcastle College
-Address of donor: Rye Hill Campus, Scotswood Road, Newcastle upon Tyne NE4 7SA
-Amount of donation or nature and value if donation in kind: A suit made by a student to be worn for my Damehood ceremony, value £500
-Date received: 8 December 2025 to 13 January 2026
-Date accepted: 8 December 2025
-Donor status: other (Further Education College)
-(Registered 13 January 2026)",4124,2026-02-12T11:41:59.4415024
 "Name of donor: Newcastle Eagles Basketball Ltd
 Address of donor: Vertu Motors Arena, Scotswood Road, Newcastle NE4 7AF
 Amount of donation or nature and value if donation in kind: Tickets and hospitality to watch a Newcastle Eagles Basketball game. Attended by Chi her partner, her partner's son and his partner, value £336
@@ -5728,6 +5837,13 @@ Date received: 9 January 2026 to 9 January 2026
 Date accepted: 9 January 2026
 Donor status: company, registration 03041174
 (Registered 13 January 2026)",4124,2026-04-08T10:38:05.0050852
+"Name of donor: Newcastle College
+Address of donor: Rye Hill Campus, Scotswood Road, Newcastle upon Tyne NE4 7SA
+Amount of donation or nature and value if donation in kind: A suit made by a student to be worn for my Damehood ceremony, value £500
+Date received: 8 December 2025 to 13 January 2026
+Date accepted: 8 December 2025
+Donor status: other (Further Education College)
+(Registered 13 January 2026)",4124,2026-02-12T11:41:59.4415024
 "Name of donor: Armed Forces Parliamentary Trust
 Address of donor: Parliament
 Estimate of the probable value (or amount of any donation): Flights London-Brunei, value £799.82
@@ -5856,13 +5972,6 @@ Date received: 6 July 2025
 Date accepted: 6 July 2025
 Donor status: company, registration 882843
 (Registered 14 July 2025)",4066,2025-07-15T08:40:43.6366667
-"Name of donor: The Duke of Richmond and Gordon CBE DL
-Address of donor: private
-Amount of donation or nature and value if donation in kind: Two tickets for myself and a family member to attend the Goodwood Festival of Speed, including hospitality, as a guest of the Duke of Richmond (estimated cost per ticket of £500, NB: a donation was made by me to The King’s Trust International of £100 per ticket), value £1,000
-Date received: 13 July 2025
-Date accepted: 13 July 2025
-Donor status: individual
-(Registered 12 August 2025)",4066,2026-02-12T11:49:11.7918632
 "Name of donor: High Commissioner of India in the UK
 Address of donor: High Commission of India, India House, Aldwych, London WC2B 4NA.
 Amount of donation or nature and value if donation in kind: Two tickets and hospitality for me and a family member as a guest of the High Commissioner to attend the England v India Women’s One Day International at Lord’s in the ECB Chair's Suite (NB: this is not commercially available, but each ticket has an estimated face value of £250-£300), value £600
@@ -5870,6 +5979,13 @@ Date received: 19 July 2025
 Date accepted: 19 July 2025
 Donor status: other (High Commission)
 (Registered 12 August 2025)",4066,2025-10-21T11:08:47.6959711
+"Name of donor: The Duke of Richmond and Gordon CBE DL
+Address of donor: private
+Amount of donation or nature and value if donation in kind: Two tickets for myself and a family member to attend the Goodwood Festival of Speed, including hospitality, as a guest of the Duke of Richmond (estimated cost per ticket of £500, NB: a donation was made by me to The King’s Trust International of £100 per ticket), value £1,000
+Date received: 13 July 2025
+Date accepted: 13 July 2025
+Donor status: individual
+(Registered 12 August 2025)",4066,2026-02-12T11:49:11.7918632
 "Name of donor: Clarion Defence (UK) Ltd
 Address of donor: 69-79 Fulham High Street, London, SW6 3JW
 Amount of donation or nature and value if donation in kind: In my capacity as Shadow Secretary of State for Foreign, Commonwealth and Development Affairs, two tickets (value £299 each) were provided to enable myself and an adviser from CCHQ to attend DSEI on 11 September 2025, value £598
@@ -5891,6 +6007,13 @@ Date received: 9 December 2025
 Date accepted: 9 December 2025
 Donor status: other (Embassy)
 (Registered 3 January 2026)",4066,2026-01-06T10:53:38.28
+"Name of donor: The Arsenal Football Club Ltd
+Address of donor: Highbury House, 75 Drayton Park, London N5 1BU
+Amount of donation or nature and value if donation in kind: One matchday ticket and hospitality in the Directors' Box at the Emirates Stadium for myself (approximate), value £500
+Date received: 18 May 2026
+Date accepted: 18 May 2026
+Donor status: company, registration 00109244
+(Registered 1 June 2026)",4066,2026-06-03T10:07:29.87
 "Name of donor: Konrad-Adenauer-Stiftung
 Address of donor: 42 Essex Street, London, WC2R 3JF
 Estimate of the probable value (or amount of any donation): Flights (£913 for two people), accommodation (£611 for two people), transfers (£151 for two people), and meals (£173 for two people) provided to me and a CCHQ political adviser who accompanied me on this visit, value £1,848
@@ -5950,19 +6073,19 @@ Date received: 12 June 2025 to 12 June 2025
 Date accepted: 12 June 2025
 Donor status: company, registration 07459469
 (Registered 1 July 2025)",3952,2025-07-15T08:40:21.6433333
-"Name of donor: Lawn Tennis Association
-Address of donor: The National Tennis Centre, 100 Priory Lane, Roehampton, London SW15 5JQ
-Amount of donation or nature and value if donation in kind: Two tickets to watch Wimbledon Tennis championships, value £320
-Date received: 5 July 2025 to 5 July 2025
-Date accepted: 5 July 2025
-Donor status: company, registration 07459469
-(Registered 4 August 2025)",3952,2025-08-05T09:51:45.2866667
 "Name of donor: All England Lawn Tennis Club (Championships)  Ltd
 Address of donor: Church Road, Wimbledon, London SW19 5AE
 Amount of donation or nature and value if donation in kind: Two tickets plus hospitality at Wimbledon Tennis championships, value £520
 Date received: 4 July 2025 to 4 July 2025
 Date accepted: 4 July 2025
 Donor status: company, registration 07546773
+(Registered 4 August 2025)",3952,2025-08-05T09:51:45.2866667
+"Name of donor: Lawn Tennis Association
+Address of donor: The National Tennis Centre, 100 Priory Lane, Roehampton, London SW15 5JQ
+Amount of donation or nature and value if donation in kind: Two tickets to watch Wimbledon Tennis championships, value £320
+Date received: 5 July 2025 to 5 July 2025
+Date accepted: 5 July 2025
+Donor status: company, registration 07459469
 (Registered 4 August 2025)",3952,2025-08-05T09:51:45.2866667
 "Role, work or services: Writing books
 Payer: United Agents, Lexington House, 12-26 Lexington St, Soho, London W1F 0LE",4370,2024-10-01T12:39:05.9571314
@@ -6014,6 +6137,13 @@ Date received: 12 September 2025
 Date accepted: 12 September 2025
 Donor status: individual
 (Registered 2 October 2025)",4046,2025-10-08T13:15:41.47
+"Name of donor: Culture Quarter Ventures Ltd
+Address of donor: The Dun Cow, 9 High Street West, Sunderland SR1 3HA
+Amount of donation or nature and value if donation in kind: Donation of venue space for launch event for my campaign for the deputy leadership of the Labour Party, including hire fee for space, technical staffing and equipment, front of house staffing, cleaning costs and refreshment cost, value £1,531.20
+Date received: 13 September 2025
+Date accepted: 13 September 2025
+Donor status: company, registration 10441014
+(Registered 6 October 2025)",4046,2025-10-08T13:15:52.9966667
 "Name of donor: 89up Ltd
 Address of donor: 64-68 Pentonville Road, London N1 9PR
 Amount of donation or nature and value if donation in kind: Staff time for designing and updating a website and associated functionality to support my campaign for the deputy leadership of the Labour Party, plus associated website service costs, value £5,268.97
@@ -6028,13 +6158,6 @@ Date received: 12 September 2025
 Date accepted: 12 September 2025
 Donor status: individual
 (Registered 6 October 2025)",4046,2025-10-08T13:15:41.47
-"Name of donor: Culture Quarter Ventures Ltd
-Address of donor: The Dun Cow, 9 High Street West, Sunderland SR1 3HA
-Amount of donation or nature and value if donation in kind: Donation of venue space for launch event for my campaign for the deputy leadership of the Labour Party, including hire fee for space, technical staffing and equipment, front of house staffing, cleaning costs and refreshment cost, value £1,531.20
-Date received: 13 September 2025
-Date accepted: 13 September 2025
-Donor status: company, registration 10441014
-(Registered 6 October 2025)",4046,2025-10-08T13:15:52.9966667
 "Name of donor: Labour First
 Address of donor: Labour First, 3rd Floor 86-90 Paul Street, London EC2A 4NE.
 Amount of donation or nature and value if donation in kind: Staffing support for my Labour deputy leadership bid, plus emails sent and calls made, which were supportive of my deputy leadership campaign, value £3,923
@@ -6108,26 +6231,26 @@ Date received: 10 August 2025
 Date accepted: 10 August 2025
 Donor status: company, registration 00077797
 (Registered 11 August 2025)",4503,2025-09-02T11:00:58.1233333
-"Name of company or organisation: Pluto Partners LLP
+"Name of company or organisation: Pluto Development Partners LLP
 Nature of business: Property finance and investment
-(Registered 5 June 2015)",4503,2024-04-18T15:16:17.8666667
+(Registered 5 June 2015)",4503,2024-04-18T15:16:10.8033333
 "Name of company or organisation: Millgap Ltd
 Nature of business: Consulting, advisory and investment
 (Registered 5 June 2015)",4503,2024-04-18T15:16:10.8033333
-"Name of company or organisation: Pluto Capital Management LLP
+"Name of company or organisation: Pluto Partners LLP
 Nature of business: Property finance and investment
-(Registered 5 June 2015)",4503,2024-04-18T15:16:10.8033333
-"Name of company or organisation: Pluto Development Partners LLP
+(Registered 5 June 2015)",4503,2024-04-18T15:16:17.8666667
+"Name of company or organisation: Pluto Capital Management LLP
 Nature of business: Property finance and investment
 (Registered 5 June 2015)",4503,2024-04-18T15:16:10.8033333
 "Name of company or organisation: Galenic Laboratories Ltd
 Nature of business: Compounding Pharmacy
 Interest held: from 21 October 2024
 (Registered 31 October 2024)",4503,2025-11-03T16:32:01.3071676
-"A company to which a subsidiary of Pluto Partners LLP provides services became accredited for the Coronavirus Business Interruption Loan Scheme.
+"A company in which Millgap Ltd holds beneficial ownership of 0.375% became accredited for the Coronavirus Business Interruption Loan Scheme.
 Date interest arose: 22 March 2021
 (Registered 25 May 2021)",4503,2024-04-18T15:17:00.2166667
-"A company in which Millgap Ltd holds beneficial ownership of 0.375% became accredited for the Coronavirus Business Interruption Loan Scheme.
+"A company to which a subsidiary of Pluto Partners LLP provides services became accredited for the Coronavirus Business Interruption Loan Scheme.
 Date interest arose: 22 March 2021
 (Registered 25 May 2021)",4503,2024-04-18T15:17:00.2166667
 "Name of donor: Babcock International
@@ -6149,19 +6272,19 @@ Address of donor: 222 Alcester Road, Moseley, Birmingham B13 8EY
 Amount of donation or nature and value if donation in kind: £50,000 donation made directly to the Labour Party for the provision of staff costs to support my role and office as Deputy Leader of the Labour Party.
 Donor status: company, registration 01966393
 (Registered 22 January 2026)",4263,2026-02-03T11:19:40.87
-"Name of donor: Martin Taylor
-Address of donor: private
-Amount of donation or nature and value if donation in kind: £10,000 to my campaign to become the Deputy Leader of the Labour Party.
-Date received: 24 September 2025
-Date accepted: 24 September 2025
-Donor status: individual
-(Registered 10 October 2025)",4263,2025-10-21T14:20:05.77
 "Name of donor: Ecotricity Group Ltd
 Address of donor: Lion House, Rowcroft, Stroud, Gloucestershire, GL5 3BY
 Amount of donation or nature and value if donation in kind: £15,000 to my campaign to become the Deputy Leader of the Labour Party
 Date received: 24 September 2025
 Date accepted: 24 September 2025
 Donor status: company, registration 03521776
+(Registered 10 October 2025)",4263,2025-10-21T14:20:05.77
+"Name of donor: Martin Taylor
+Address of donor: private
+Amount of donation or nature and value if donation in kind: £10,000 to my campaign to become the Deputy Leader of the Labour Party.
+Date received: 24 September 2025
+Date accepted: 24 September 2025
+Donor status: individual
 (Registered 10 October 2025)",4263,2025-10-21T14:20:05.77
 "Name of donor: Sean Wadsworth
 Address of donor: private
@@ -6170,13 +6293,6 @@ Date received: 15 September 2025
 Date accepted: 15 September 2025
 Donor status: individual
 (Registered 13 October 2025)",4263,2026-02-12T12:17:25.6415921
-"Name of donor: Ivy Business Centre Ltd
-Address of donor: Ivy Mill Crown Street, Failsworth, Manchester M35 9BG
-Amount of donation or nature and value if donation in kind: £10,000 for my campaign to become the Deputy Leader of the Labour Party
-Date received: 10 October 2025
-Date accepted: 10 October 2025
-Donor status: company, registration 08046145
-(Registered 28 October 2025)",4263,2025-11-04T15:54:40.9533333
 "Name of donor: Small Axe Communications Ltd
 Address of donor: Office 1, The Warehouse, Anchor Quay, Penryn, Cornwall TR10 8GZ
 Amount of donation or nature and value if donation in kind: In kind donation of staff time, for communications and administrative services in relation to my campaign to become the Deputy Leader of the Labour Party. In addition to paid for services between 29 September 2025 and 24 October 2025, value £20,000
@@ -6190,6 +6306,13 @@ Amount of donation or nature and value if donation in kind: £5,000 for my campa
 Date received: 16 October 2025
 Date accepted: 16 October 2025
 Donor status: individual
+(Registered 28 October 2025)",4263,2025-11-04T15:54:40.9533333
+"Name of donor: Ivy Business Centre Ltd
+Address of donor: Ivy Mill Crown Street, Failsworth, Manchester M35 9BG
+Amount of donation or nature and value if donation in kind: £10,000 for my campaign to become the Deputy Leader of the Labour Party
+Date received: 10 October 2025
+Date accepted: 10 October 2025
+Donor status: company, registration 08046145
 (Registered 28 October 2025)",4263,2025-11-04T15:54:40.9533333
 "Name of donor: Sky UK Limited
 Address of donor: Grant Way, Isleworth, Middlesex TW7 5QD
@@ -6212,6 +6335,13 @@ Date received: 22 March 2026
 Date accepted: 22 March 2026
 Donor status: company, registration 00080612
 (Registered 23 March 2026)",4263,2026-04-08T10:41:08.467543
+"Name of donor: The Football Association Ltd
+Address of donor: Wembley Stadium, Wembley, London HA9 0WS
+Amount of donation or nature and value if donation in kind: Two tickets with hospitality for me and a guest for the FA Cup Final match between Manchester City v Chelsea., value £580
+Date received: 16 May 2026
+Date accepted: 16 May 2026
+Donor status: company, registration 00077797
+(Registered 26 May 2026)",4263,2026-06-03T10:07:17.0566667
 "Type of land/property: Residential property (a room in my London flat)
 Number of properties: 1
 Location: London
@@ -6304,6 +6434,11 @@ ACOBA consulted: Yes
 "Role, work or services: Speaking engagement
 Payer: Signum Global Advisors LLP, 78-79 Pall Mall, London, SW1Y 5ES
 (Registered 9 April 2026)",4356,2026-04-14T09:26:49.9166667
+"Role, work or services: Writing a book
+From: 30 April 2026.
+Payer: William Morris Endeavour Entertainment (UK) Limited (Book agency), 100 New Oxford Street, 5th Floor, London WC1A 1HB
+ACOBA consulted: Yes
+(Registered 21 May 2026)",4356,2026-06-03T10:07:17.0566667
 "Name of donor: Martin Littler
 Address of donor: private
 Amount of donation or nature and value if donation in kind: £5,000 towards staffing costs.
@@ -6381,6 +6516,20 @@ Date received: 8 April 2026
 Date accepted: 10 April 2026
 Donor status: individual
 (Registered 11 May 2026)",4356,2026-05-19T09:45:15.27
+"Name of donor: Richard Greer
+Address of donor: private
+Amount of donation or nature and value if donation in kind: £5,000 towards running costs for the office of Angela Rayner Limited
+Date received: 14 May 2026
+Date accepted: 14 May 2026
+Donor status: individual
+(Registered 19 May 2026)",4356,2026-06-03T10:07:17.0566667
+"Name of donor: 89UP Ltd
+Address of donor: 68 Pentonville Road, London, N1 9PR
+Amount of donation or nature and value if donation in kind: Provision of free support services for my digital communications, notionally calculated at commercial rate including equivalent of VAT, value £10,238.40
+Date received: 3 May 2026 to 7 May 2026
+Date accepted: 3 May 2026
+Donor status: company, registration 06886828
+(Registered 1 June 2026)",4356,2026-06-03T10:07:29.87
 "Name of donor: BN1 Events Collective Ltd
 Address of donor: c/o The Loop Accounts Ltd Formal House, 60 St Georges Place, Cheltenham, Gloucestershire GL50 3PN
 Amount of donation or nature and value if donation in kind: Five tickets at the Pride Event, Brighton and Hove, value £1,100
@@ -6427,14 +6576,6 @@ Date accepted: 1 October 2025
 Donor status: individual
 (Registered 15 October 2025)",4031,2025-10-21T14:20:17.3066667
 "Name of donor: National Theatre
-Address of donor: The Royal National Theatre, Upper Ground, London, SE1 9PX
-Amount of donation or nature and value if donation in kind: Two tickets to a performance and dinner, value £265.69
-Date received: 15 March 2024
-Date accepted: 15 March 2024
-Donor status: company, registration 00749504
-(Registered 27 March 2025)
-This is a late entry to which the rectification procedure was applied on 15 July 2025. Paragraph 51 of the Procedural Protocol in respect of the Code of Conduct refers.",4031,2026-04-08T10:42:50.2596375
-"Name of donor: National Theatre
 Address of donor: The Royal National Theatre, Upper Ground, London SE1 9PX
 Amount of donation or nature and value if donation in kind: Four tickets to a performance, for me and three family members, value £276
 Date received: 27 December 2024
@@ -6442,6 +6583,14 @@ Date accepted: 27 December 2024
 Donor status: company, registration 00749504
 (Registered 27 March 2025)
 This is a late entry to which the rectification procedure was applied on 15 July 2025. Paragraph 51 of the Procedural Protocol in respect of the Code of Conduct refers.",4031,2026-04-08T10:42:31.6642754
+"Name of donor: National Theatre
+Address of donor: The Royal National Theatre, Upper Ground, London, SE1 9PX
+Amount of donation or nature and value if donation in kind: Two tickets to a performance and dinner, value £265.69
+Date received: 15 March 2024
+Date accepted: 15 March 2024
+Donor status: company, registration 00749504
+(Registered 27 March 2025)
+This is a late entry to which the rectification procedure was applied on 15 July 2025. Paragraph 51 of the Procedural Protocol in respect of the Code of Conduct refers.",4031,2026-04-08T10:42:50.2596375
 "Type of land/property: Residential property (House)
 Number of properties: 1
 Location: London
@@ -6610,66 +6759,6 @@ Date interest arose: 28 October 2025
 (Registered 29 October 2025)",1447,2025-11-04T15:54:52.33
 "Name of donor: The Police Federation
 Address of donor: Federation House, Highbury Drive, Leatherhead KT22 7UY
-Amount of donation or nature and value if donation in kind: Administration and coordination of the Justice Unions Parliamentary Group, a cross-party group which I co-chair, provided by Solidarity Consulting Ltd between 1 January 2025 to 30 September 2025, value £3,780
-Date received: 1 January 2025 to 30 September 2025
-Date accepted: 1 January 2025
-Donor status: trade union
-(Registered 12 November 2025)
-This is a late entry to which the rectification procedure was applied on 26  
-January 2026. Paragraph 51 of the Procedural Protocol in respect of the Code 
-of Conduct refers.",4521,2026-02-03T11:19:40.87
-"Name of donor: NAPO - the Probation and Family Courts Union
-Address of donor: Boat Race House, 65 Mortlake High Street, London SW14 8HL
-Amount of donation or nature and value if donation in kind: Administration and coordination of the Justice Unions Parliamentary Group, a cross-party group which I co-chair, provided by Solidarity Consulting Ltd between 1 October 2025 to 31 October 2026, value £5,670
-Date received: 1 October 2025 to 31 October 2026
-Date accepted: 1 October 2025
-Donor status: trade union
-(Registered 12 November 2025)
-This is a late entry to which the rectification procedure was applied on 26  
-January 2026. Paragraph 51 of the Procedural Protocol in respect of the Code 
-of Conduct refers.",4521,2026-02-03T11:19:52.3066667
-"Name of donor: The Prison Officers Association
-Address of donor: Cronin House, 245 Church Street, London N9 9HW
-Amount of donation or nature and value if donation in kind: Administration and coordination of the Justice Unions Parliamentary Group, a cross-party group which I co-chair, provided by Solidarity Consulting Ltd between 1 October 2025 to 31 October 2026, value £5,670
-Date received: 1 October 2025 to 31 October 2026
-Date accepted: 1 October 2025
-Donor status: trade union
-(Registered 12 November 2025)
-This is a late entry to which the rectification procedure was applied on 26  
-January 2026. Paragraph 51 of the Procedural Protocol in respect of the Code 
-of Conduct refers.",4521,2026-02-03T11:19:40.87
-"Name of donor: NAPO - the Probation and Family Courts Union
-Address of donor: Boat Race House, 65 Mortlake High Street, London SW14 8HL
-Amount of donation or nature and value if donation in kind: Administration and coordination of the Justice Unions Parliamentary Group, a cross-party group which I co-chair, provided by Solidarity Consulting Ltd between 1 January 2025 to 30 September 2025, value £3,780
-Date received: 1 January 2025 to 30 September 2025
-Date accepted: 1 January 2025
-Donor status: trade union
-(Registered 12 November 2025)
-This is a late entry to which the rectification procedure was applied on 26  
-January 2026. Paragraph 51 of the Procedural Protocol in respect of the Code 
-of Conduct refers.",4521,2026-02-03T11:19:40.87
-"Name of donor: Public and Commercial Services Union
-Address of donor: 160 Falcon Road, London SW11 2LN
-Amount of donation or nature and value if donation in kind: Administration and coordination of the Justice Unions Parliamentary Group, a cross-party group which I co-chair, provided by Solidarity Consulting Ltd between 1 October 2025 to 31 October 2026, value £5,670
-Date received: 1 October 2025 to 31 October 2026
-Date accepted: 1 October 2025
-Donor status: trade union
-(Registered 12 November 2025)
-This is a late entry to which the rectification procedure was applied on 26  
-January 2026. Paragraph 51 of the Procedural Protocol in respect of the Code 
-of Conduct refers.",4521,2026-02-03T11:19:40.87
-"Name of donor: University and College Union (UCU)
-Address of donor: Carlow Street, London NW1 7LH
-Amount of donation or nature and value if donation in kind: Administration and coordination of the Justice Unions Parliamentary Group, a cross-party group which I co-chair, provided by Solidarity Consulting Ltd between 1 January 2025 to 30 September 2025, value £3,780
-Date received: 1 January 2025 to 30 September 2025
-Date accepted: 1 January 2025
-Donor status: trade union
-(Registered 12 November 2025)
-This is a late entry to which the rectification procedure was applied on 26  
-January 2026. Paragraph 51 of the Procedural Protocol in respect of the Code 
-of Conduct refers.",4521,2026-02-03T11:19:40.87
-"Name of donor: The Police Federation
-Address of donor: Federation House, Highbury Drive, Leatherhead KT22 7UY
 Amount of donation or nature and value if donation in kind: Administration and coordination of the Justice Unions Parliamentary Group, a cross-party group which I co-chair, provided by Solidarity Consulting Ltd between 1 October 2025 to 31 October 2026, value £5,670
 Date received: 1 October 2025 to 31 October 2026
 Date accepted: 1 October 2025
@@ -6688,6 +6777,26 @@ Donor status: trade union
 This is a late entry to which the rectification procedure was applied on 26  
 January 2026. Paragraph 51 of the Procedural Protocol in respect of the Code 
 of Conduct refers.",4521,2026-02-03T11:19:52.3066667
+"Name of donor: NAPO - the Probation and Family Courts Union
+Address of donor: Boat Race House, 65 Mortlake High Street, London SW14 8HL
+Amount of donation or nature and value if donation in kind: Administration and coordination of the Justice Unions Parliamentary Group, a cross-party group which I co-chair, provided by Solidarity Consulting Ltd between 1 October 2025 to 31 October 2026, value £5,670
+Date received: 1 October 2025 to 31 October 2026
+Date accepted: 1 October 2025
+Donor status: trade union
+(Registered 12 November 2025)
+This is a late entry to which the rectification procedure was applied on 26  
+January 2026. Paragraph 51 of the Procedural Protocol in respect of the Code 
+of Conduct refers.",4521,2026-02-03T11:19:52.3066667
+"Name of donor: The Prison Officers Association
+Address of donor: Cronin House, 245 Church Street, London N9 9HW
+Amount of donation or nature and value if donation in kind: Administration and coordination of the Justice Unions Parliamentary Group, a cross-party group which I co-chair, provided by Solidarity Consulting Ltd between 1 October 2025 to 31 October 2026, value £5,670
+Date received: 1 October 2025 to 31 October 2026
+Date accepted: 1 October 2025
+Donor status: trade union
+(Registered 12 November 2025)
+This is a late entry to which the rectification procedure was applied on 26  
+January 2026. Paragraph 51 of the Procedural Protocol in respect of the Code 
+of Conduct refers.",4521,2026-02-03T11:19:40.87
 "Name of donor: Public and Commercial Services Union
 Address of donor: 160 Falcon Road, London SW11 2LN
 Amount of donation or nature and value if donation in kind: Administration and coordination of the Justice Unions Parliamentary Group, a cross-party group which I co-chair, provided by Solidarity Consulting Ltd between 1 January 2025 to 30 September 2025, value £3,780
@@ -6704,6 +6813,46 @@ Address of donor: Cronin House, 245 Church Street, London N9 9HW
 Amount of donation or nature and value if donation in kind: Administration and coordination of the Justice Unions Parliamentary Group, a cross-party group which I co-chair, provided by Solidarity Consulting Ltd between 1 January 2025 to 30 September 2025, value £3,780
 Date received: 1 January 2025 to 30 September 2025
 Date accepted: 1 January 2025
+Donor status: trade union
+(Registered 12 November 2025)
+This is a late entry to which the rectification procedure was applied on 26  
+January 2026. Paragraph 51 of the Procedural Protocol in respect of the Code 
+of Conduct refers.",4521,2026-02-03T11:19:40.87
+"Name of donor: University and College Union (UCU)
+Address of donor: Carlow Street, London NW1 7LH
+Amount of donation or nature and value if donation in kind: Administration and coordination of the Justice Unions Parliamentary Group, a cross-party group which I co-chair, provided by Solidarity Consulting Ltd between 1 January 2025 to 30 September 2025, value £3,780
+Date received: 1 January 2025 to 30 September 2025
+Date accepted: 1 January 2025
+Donor status: trade union
+(Registered 12 November 2025)
+This is a late entry to which the rectification procedure was applied on 26  
+January 2026. Paragraph 51 of the Procedural Protocol in respect of the Code 
+of Conduct refers.",4521,2026-02-03T11:19:40.87
+"Name of donor: The Police Federation
+Address of donor: Federation House, Highbury Drive, Leatherhead KT22 7UY
+Amount of donation or nature and value if donation in kind: Administration and coordination of the Justice Unions Parliamentary Group, a cross-party group which I co-chair, provided by Solidarity Consulting Ltd between 1 January 2025 to 30 September 2025, value £3,780
+Date received: 1 January 2025 to 30 September 2025
+Date accepted: 1 January 2025
+Donor status: trade union
+(Registered 12 November 2025)
+This is a late entry to which the rectification procedure was applied on 26  
+January 2026. Paragraph 51 of the Procedural Protocol in respect of the Code 
+of Conduct refers.",4521,2026-02-03T11:19:40.87
+"Name of donor: NAPO - the Probation and Family Courts Union
+Address of donor: Boat Race House, 65 Mortlake High Street, London SW14 8HL
+Amount of donation or nature and value if donation in kind: Administration and coordination of the Justice Unions Parliamentary Group, a cross-party group which I co-chair, provided by Solidarity Consulting Ltd between 1 January 2025 to 30 September 2025, value £3,780
+Date received: 1 January 2025 to 30 September 2025
+Date accepted: 1 January 2025
+Donor status: trade union
+(Registered 12 November 2025)
+This is a late entry to which the rectification procedure was applied on 26  
+January 2026. Paragraph 51 of the Procedural Protocol in respect of the Code 
+of Conduct refers.",4521,2026-02-03T11:19:40.87
+"Name of donor: Public and Commercial Services Union
+Address of donor: 160 Falcon Road, London SW11 2LN
+Amount of donation or nature and value if donation in kind: Administration and coordination of the Justice Unions Parliamentary Group, a cross-party group which I co-chair, provided by Solidarity Consulting Ltd between 1 October 2025 to 31 October 2026, value £5,670
+Date received: 1 October 2025 to 31 October 2026
+Date accepted: 1 October 2025
 Donor status: trade union
 (Registered 12 November 2025)
 This is a late entry to which the rectification procedure was applied on 26  
@@ -6782,14 +6931,21 @@ Destination of visit: United States (Washington)
 Dates of visit: 6 February 2026 to 8 February 2026
 Purpose of visit: Attending a Public Narrative training weekend
 (Registered 24 February 2026)",4409,2026-03-10T14:50:54.6866667
-"A trustee of Glasgow Disabled Scouts. This is an unpaid role.
-(Registered 1 November 2023)",4998,2024-04-18T15:17:56.72
-"A member of General Teaching Council for Scotland. This is an unpaid role.
-(Registered 1 November 2023)",4998,2024-04-18T15:17:56.72
+"Name of donor: Muslim Impact Forum
+Address of donor: 203 Westgate, Bradford BD13AD
+Estimate of the probable value (or amount of any donation): Flights (£390),  accommodation (£825.87), event pass worth (£2000), value £3,215.87
+Destination of visit: Turkey (istanbul)
+Dates of visit: 23 April 2026 to 28 April 2026
+Purpose of visit: To attend the Global Donors Forum conference, participate and speak in discussions on ethical leadership.
+(Registered 19 May 2026)",4409,2026-06-03T10:07:17.0566667
 "A trustee of Epilepsy Scotland. This is an unpaid role.
 (Registered 1 November 2023)",4998,2024-04-18T15:18:03.76
 "A trustee of Interfaith Glasgow. This is an unpaid role.
 (Registered 1 November 2023)",4998,2024-04-18T15:18:03.76
+"A trustee of Glasgow Disabled Scouts. This is an unpaid role.
+(Registered 1 November 2023)",4998,2024-04-18T15:17:56.72
+"A member of General Teaching Council for Scotland. This is an unpaid role.
+(Registered 1 November 2023)",4998,2024-04-18T15:17:56.72
 "Name of donor: The FORB Foundation (Secretariat to APPG FoRB)
 Address of donor: private
 Estimate of the probable value (or amount of any donation): Accommodation for three nights (£430), flights (£110), food (£22), all other food was included in the hotel price, value £562
@@ -6811,6 +6967,13 @@ Ownership details: part-share",4131,2024-04-18T15:16:46.0833333
 "Type of land/property: Agricultural land (40 acres of land and farm)
 Location: Ballygarvin
 (Registered 31 May 2021; updated 6 July 2017)",4131,2024-04-18T15:16:46.0833333
+"Name of donor: UK Commercial Group Ltd
+Address of donor: 14 Octavian Way, Team Valley NE11 0HZ
+Amount of donation or nature and value if donation in kind: Hospitality and tickets to the Directors' box at Newcastle United v West Ham on 17 May 2026, value £643
+Date received: 17 May 2026
+Date accepted: 17 May 2026
+Donor status: company, registration 07462722
+(Registered 20 May 2026)",3997,2026-06-03T10:07:17.0566667
 "Name: Susan Shelbrooke
 Relationship: Spouse
 Role: Senior Secretary
@@ -6832,16 +6995,16 @@ Rental income details: The rent is being paid to my husband.
 This is a late entry to which the rectification procedure was applied on 8 August 2024. Paragraph 51 of the Procedural Protocol in respect of the Code of Conduct refers.",4518,2024-08-16T15:03:14.57
 "Name of donor: The Refugee, Asylum and Migration Policy Project (RAMP)
 Address of donor: The Courtyard, High Street, Ascot SL5 7HP
-Amount of donation or nature and value if donation in kind: The services of a Policy Adviser for 1 day per week, (estimated), value £9,750
-Date received: 1 April 2025 to 31 December 2025
-Date accepted: 1 April 2025
+Amount of donation or nature and value if donation in kind: The services of a Policy Adviser for one day per week (value is estimated), value £3,250
+Date received: 1 January 2026 to 31 March 2026
+Date accepted: 1 January 2026
 Donor status: company, registration 12373468
 (Registered 5 January 2026)",4872,2026-01-06T10:53:38.28
 "Name of donor: The Refugee, Asylum and Migration Policy Project (RAMP)
 Address of donor: The Courtyard, High Street, Ascot SL5 7HP
-Amount of donation or nature and value if donation in kind: The services of a Policy Adviser for one day per week (value is estimated), value £3,250
-Date received: 1 January 2026 to 31 March 2026
-Date accepted: 1 January 2026
+Amount of donation or nature and value if donation in kind: The services of a Policy Adviser for 1 day per week, (estimated), value £9,750
+Date received: 1 April 2025 to 31 December 2025
+Date accepted: 1 April 2025
 Donor status: company, registration 12373468
 (Registered 5 January 2026)",4872,2026-01-06T10:53:38.28
 "Name of donor: The Refugee, Asylum and Migration Policy Project (RAMP)
@@ -6971,10 +7134,6 @@ Additional information: This taskforce is charged with developing an ADR process
 Date interest arose: 12 December 2024
 Date interest ended: 19 August 2025
 (Registered 19 December 2024; updated 10 March 2025, 11 March 2025 and 20 August 2025)",4118,2025-09-02T11:01:09.5566667
-"Vice-Chair of the British Irish Parliamentary Assembly. This is an unpaid role.
-Date interest arose: 28 July 2016
-Date interest ended: 27 January 2025
-(Registered 7 December 2023; updated 16 January 2024 and 25 April 2025)",4444,2025-04-29T11:04:24.49
 "Name of donor: Knights Tailoring Ltd
 Address of donor: 5 Station Road, Tidworth SP9 7NN
 Amount of donation or nature and value if donation in kind: Two tickets for the National Film Awards to support the Ukrainian documentary 'We are Home'  that won Best Documentary. Hospitality included drinks but no food, value £750
@@ -7003,6 +7162,20 @@ Date received: 20 March 2026
 Date accepted: 20 March 2026
 Donor status: company, registration 06233875
 (Registered 12 April 2026)",4658,2026-04-14T09:27:01.47
+"Name of donor: Football Association Ltd
+Address of donor: Wembley Stadium, Wembley, London HA9 0WS
+Amount of donation or nature and value if donation in kind: Two tickets and hospitality for the FA Cup Semi Final between Leeds Utd and Chelsea FC, value £500
+Date received: 26 April 2026
+Date accepted: 26 April 2026
+Donor status: company, registration 00077797
+(Registered 1 June 2026)",4658,2026-06-03T10:07:29.87
+"Name of donor: Music Publishers Association
+Address of donor: 107 Gray's Inn Road, London WC1X 8TZ
+Amount of donation or nature and value if donation in kind: One ticket and hospitality for the Ivor Novello Awards, value £1,314
+Date received: 21 May 2026
+Date accepted: 21 May 2026
+Donor status: company, registration 00140248
+(Registered 1 June 2026)",4658,2026-06-03T10:07:29.87
 "A director (unpaid) of Transform Labour Ltd (formally Transform Europe (Campaign) Ltd). This is a dormant company, limited by guarantee, which applied for dissolution on 28 June 2023.
 Date interest arose: 2 July 2019
 (Registered 28 July 2023)",4658,2024-04-18T15:16:24.9166667
@@ -7035,10 +7208,6 @@ Destination of visit: Japan
 Dates of visit: 8 October 2025 to 16 October 2025
 Purpose of visit: Strengthening UK-Japan relations and engagement with Japanese politicians and businesses, including visits and meetings linked to my role as Shadow DSIT Minister of State.
 (Registered 12 November 2025)",4785,2025-11-18T10:10:05.49
-"Chairman of FTL Club, an unincorporated association with the purpose of fundraising for the political activities of the Conservative Member of Parliament/Conservative Parliamentary Candidate for Runnymede and Weybridge. This is an unpaid role.
-Date interest arose: 14 March 2023
-Date interest ended: 3 April 2025
-(Registered 12 September 2023; updated 23 April 2025)",4785,2025-04-29T11:04:24.49
 "Role, work or services: Copyright payments for books written before my election to Parliament
 Payer: Authors’ Licensing and Collecting Society, 4 Battle Bridge Lane, London SE1 2HX",4514,2024-04-18T15:21:14.44
 "Role, work or services: Legal services provided before my election to Parliament
@@ -7149,19 +7318,19 @@ Nature of business: Property company
 "Role, work or services: Library copyright fees
 Payer: Public Lending Right, British Library, Boston Spa, Wetherby LS23 7BQ
 (Registered 17 February 2025)",4504,2025-02-25T12:41:06.54
-"Name of donor: Trevor Chinn
-Address of donor: private
-Amount of donation or nature and value if donation in kind: £5,000 to support campaigning in Ilford North. To be paid in 4 quarterly instalments with first instalment received 30 January 2025
-Date received: 30 January 2025 to 31 December 2025
-Date accepted: 3 February 2025
-Donor status: individual
-(Registered 5 February 2025)",4504,2025-02-25T12:40:55.7133333
 "Name of donor: OPD Group Ltd (a company controlled by Peter Hearn)
 Address of donor: Grenville House, 4 Grenville Avenue, Broxbourne, Hertfordshire EN10 7DH
 Amount of donation or nature and value if donation in kind: £53,000 towards staffing costs in my constituency office, to be paid in four instalments between 13 January 2025 and December 2025
 Date received: 13 January 2025 to 31 December 2025
 Date accepted: 3 February 2025
 Donor status: company, registration 03201382
+(Registered 5 February 2025)",4504,2025-02-25T12:40:55.7133333
+"Name of donor: Trevor Chinn
+Address of donor: private
+Amount of donation or nature and value if donation in kind: £5,000 to support campaigning in Ilford North. To be paid in 4 quarterly instalments with first instalment received 30 January 2025
+Date received: 30 January 2025 to 31 December 2025
+Date accepted: 3 February 2025
+Donor status: individual
 (Registered 5 February 2025)",4504,2025-02-25T12:40:55.7133333
 "Name of donor: Francesca Perrin
 Address of donor: private
@@ -7224,14 +7393,14 @@ Date received: 21 January 2026
 Date accepted: 21 January 2026
 Donor status: individual
 (Registered 10 February 2026)",3935,2026-02-24T09:59:08.8633333
-"Name of donor: Joy Dawber
+"Name of donor: Andrew Dawber
 Address of donor: private
 Amount of donation or nature and value if donation in kind: £1,514 political activity
 Date received: 7 April 2026
 Date accepted: 7 April 2026
 Donor status: individual
 (Registered 30 April 2026)",3935,2026-05-19T09:45:02.0966667
-"Name of donor: Andrew Dawber
+"Name of donor: Joy Dawber
 Address of donor: private
 Amount of donation or nature and value if donation in kind: £1,514 political activity
 Date received: 7 April 2026
@@ -7245,6 +7414,20 @@ Date received: 10 April 2026
 Date accepted: 10 April 2026
 Donor status: company, registration 09735057
 (Registered 7 May 2026)",3935,2026-05-19T09:45:15.27
+"Name of donor: Paddy Nicoll
+Address of donor: private
+Amount of donation or nature and value if donation in kind: £10,000 political activity
+Date received: 27 April 2026
+Date accepted: 27 April 2026
+Donor status: individual
+(Registered 19 May 2026)",3935,2026-06-03T10:07:17.0566667
+"Name of donor: Paddy Nicoll
+Address of donor: private
+Amount of donation or nature and value if donation in kind: £897 political activity
+Date received: 2 March 2026
+Date accepted: 2 March 2026
+Donor status: individual
+(Registered 19 May 2026)",3935,2026-06-03T10:07:17.0566667
 "Name of donor: Kensington, Bayswater, Chelsea & Fulham Conservatives
 Address of donor: 44 Southern Row, London W10 5AN
 Amount of donation or nature and value if donation in kind: Two ticekts for myself and Lady Stride to attend a gala fundraising event, where I was also a guest speaker, value £340
@@ -7252,6 +7435,20 @@ Date received: 24 November 2025
 Date accepted: 24 November 2025
 Donor status: registered party
 (Registered 18 December 2025)",3935,2026-01-06T10:53:25.9866667
+"Name of donor: The Conservative Party Foundation
+Address of donor: 4 Matthew Parker Street, London SW1H 9HQ
+Amount of donation or nature and value if donation in kind: Two tickets for myself and Lady Stride to attend The Spring Lunch in support of Conservative Marginal Seats and Women2Win, value £600
+Date received: 20 May 2026
+Date accepted: 20 May 2026
+Donor status: registered party
+(Registered 26 May 2026)",3935,2026-06-03T10:07:29.87
+"Name of donor: Lloyds Banking Group PLC
+Address of donor: The Mound, Edinburgh EH1 1YZ
+Amount of donation or nature and value if donation in kind: Two tickets including hospitality for myself and Lady Stride, to attend the RHS Chelsea Flower Show, value £1,839
+Date received: 18 May 2026
+Date accepted: 18 May 2026
+Donor status: company, registration SC095000
+(Registered 26 May 2026)",3935,2026-06-03T10:07:29.87
 "Name of donor: Graham Edwards
 Address of donor: private
 Estimate of the probable value (or amount of any donation): £11,000 trip to USA and accompanied by Parliamentary Adviser. Donation received 12 September 2025
@@ -7459,10 +7656,10 @@ Nature of business: A company to support our ongoing public activities and engag
 Held jointly with or on behalf of: Jointly with my wife
 Interest held: from 5 November 2024
 (Registered 28 November 2024)",4483,2024-12-11T12:57:49.5566667
-"A Person with Significant Control of C&UCO Management Limited. This is an unpaid role.
+"A Person with Significant Control of C&UCO Services Limited. This is an unpaid role.
 Date interest arose: 24 October 2022
 (Registered 20 September 2023)",4483,2024-04-18T15:16:24.9166667
-"A Person with Significant Control of C&UCO Services Limited. This is an unpaid role.
+"A Person with Significant Control of C&UCO Management Limited. This is an unpaid role.
 Date interest arose: 24 October 2022
 (Registered 20 September 2023)",4483,2024-04-18T15:16:24.9166667
 "Unpaid director of The Office of Akshata Murty and Rishi Sunak, a company to support our ongoing public activities and engagements
@@ -7477,13 +7674,13 @@ Date interest arose: 16 October 2025
 "Unpaid appointment to the President of Ukraine’s International Advisory Council for the Economic Renewal of Ukraine.
 Date interest arose: 26 February 2026
 (Registered 3 March 2026)",4483,2026-03-10T14:51:06.16
-"Type of land/property: Residential property (house)
+"Type of land/property: Residential property (flat)
 Number of properties: 1
 Location: London
 Ownership details: owned jointly with my wife
 Rental income: Yes
 (Updated 20 May 2015)",55,2024-04-18T15:16:46.0833333
-"Type of land/property: Residential property (flat)
+"Type of land/property: Residential property (house)
 Number of properties: 1
 Location: London
 Ownership details: owned jointly with my wife
@@ -7535,11 +7732,11 @@ Ownership details: Jointly owned with my family
 Rental income: Yes
 (Updated 15 May 2015)",1536,2024-04-18T15:15:49.62
 Non-practising barrister.,1536,2024-04-18T15:15:14.3266667
+"Chair of Trustees, Traidcraft Foundation.
+(Registered 10 May 2018)",163,2024-04-18T15:15:14.3266667
 "Trustee, East Thirteen Christian Trust.
 (Registered 10 May 2018)",163,2024-04-18T15:15:14.3266667
 "Trustee, Parliamentary Christian Trust.
-(Registered 10 May 2018)",163,2024-04-18T15:15:14.3266667
-"Chair of Trustees, Traidcraft Foundation.
 (Registered 10 May 2018)",163,2024-04-18T15:15:14.3266667
 "Visiting Fellow of Northumbria University. This is an unpaid role.
 Date interest arose: 8 February 2024
@@ -7770,14 +7967,28 @@ Destination of visit: India (Delhi)
 Dates of visit: 4 March 2026 to 8 March 2026
 Purpose of visit: Political and Commonwealth War Graves Commission meetings.
 (Registered 2 April 2026)",4462,2026-04-14T09:26:38.34
+"Name of donor: Hudson Institute
+Address of donor: 1201 Pennsylvania Avenue NW, Suite 400, Washington, DC 20004
+Estimate of the probable value (or amount of any donation): Flights (£5455.59) Accommodation (£1335.22) Transport (£197.99), value £6,988.80
+Destination of visit: United States
+Dates of visit: 19 April 2026 to 27 April 2026
+Purpose of visit: Attending meetings organised by Hudson Institute which is a think tank.
+(Registered 22 May 2026)",4462,2026-06-03T10:07:17.0566667
+"Name of donor: Hudson Institute
+Address of donor: 1201 Pennsylvania Avenue NW, Suite 400, Washington, DC 20004
+Estimate of the probable value (or amount of any donation): Flights (£10,729.80) and accommodation (£1,139.90), value £11,868.70
+Destination of visit: United States (San Francisco)
+Dates of visit: 3 May 2026 to 8 May 2026
+Purpose of visit: Attending meetings organised by Hudson Institute.
+(Registered 30 May 2026)",4462,2026-06-03T10:07:29.87
+"Type of land/property: Agricultural land (including forestry)
+Location: Essonne, France
+Ownership details: Owned jointly with eleven family members
+(Registered 4 June 2015)",4462,2024-04-18T15:15:49.62
 "Type of land/property: Residential property (flats)
 Number of properties: 4
 Location: Essonne, France
 Ownership details: Owned jointly with three family members
-(Registered 4 June 2015)",4462,2024-04-18T15:15:49.62
-"Type of land/property: Agricultural land (including forestry)
-Location: Essonne, France
-Ownership details: Owned jointly with eleven family members
 (Registered 4 June 2015)",4462,2024-04-18T15:15:49.62
 "Name of company or organisation: AccuRx Ltd
 Nature of business: A software company building technology to improve communication in healthcare.
@@ -7809,6 +8020,10 @@ Date interest arose: 1 July 2025
 "Holding below registrable threshold in Juliand Digital Ltd (productivity software). These shares were transferred to a blind trust in May 2023 and returned August 2025.
 Date interest arose: 22 August 2025
 (Registered 4 September 2025)",4462,2025-09-17T08:37:02.4666667
+"Name of donor: Peace.com, Inc/Peace Planet Ltd
+Advisory Board Member (I have a shareholding that is below the threshold for registration under Category 7).
+Date interest arose: 2 February 2026
+(Registered 6 February 2026)",4462,2026-02-24T09:59:08.8633333
 "Name of donor: Brox.AI
 Advisory Board Member (I have a shareholding that is below the threshold for registration under Category 7)
 Date interest arose: 23 December 2025
@@ -7816,10 +8031,6 @@ Date interest arose: 23 December 2025
 "Name of donor: International Centre for Defence and Security
 Member of the International Advisory Board [unpaid]
 Date interest arose: 31 January 2026
-(Registered 6 February 2026)",4462,2026-02-24T09:59:08.8633333
-"Name of donor: Peace.com, Inc/Peace Planet Ltd
-Advisory Board Member (I have a shareholding that is below the threshold for registration under Category 7).
-Date interest arose: 2 February 2026
 (Registered 6 February 2026)",4462,2026-02-24T09:59:08.8633333
 "Chairman of the Conservative Friends of Hong Kong. This is an unpaid role.
 Date interest arose: 27 January 2026
@@ -7830,6 +8041,9 @@ Date interest arose: 23 February 2026
 "Chairman, Conservative Friends of Hong Kong. This is an unpaid role.
 Date interest arose: 23 January 2026
 (Registered 23 February 2026)",4462,2026-02-24T09:59:20.1266667
+"Advisory Board Member for the Committee for Freedom in Hong Kong Foundation. This is an unpaid role.
+Date interest arose: 21 May 2026
+(Registered 27 May 2026)",4462,2026-06-03T10:07:29.87
 "Name of donor: Neil Hudgell Limited
 Address of donor: 2, The Dock, 46 Humber Street, Hull HU1 1TU
 Amount of donation or nature and value if donation in kind: Solicitors letter and King's Counsel advising Fee for a political case, value £3,000
@@ -7896,19 +8110,24 @@ Destination of visit: Vatican City and San Marino
 Dates of visit: 21 October 2025 to 26 October 2025
 Purpose of visit: Attended an audience with His Holiness the Pope, and in San Marino meetings with the Heads of State, ministers, parliamentarians and business representatives in San Marino.
 (Registered 19 November 2025)",3957,2025-12-02T09:18:14.72
+"Chairman and Board member of the Policy Research Unit. This is an unpaid role.
+Date interest arose: 29 January 2025
+(Registered 12 March 2025)",3957,2025-03-25T12:18:36.82
 "Member of the Executive Committee of the British Group of the Inter-Parliamentary Union. This is an unpaid role.
 Date interest arose: 13 November 2024
 (Registered 12 March 2025)",3957,2025-03-25T12:18:36.82
 "Director & Trustee of the Industry and Parliament Trust. This is an unpaid role.
 Date interest arose: 11 February 2025
 (Registered 12 March 2025)",3957,2025-03-25T12:18:36.82
-"Chairman and Board member of the Policy Research Unit. This is an unpaid role.
-Date interest arose: 29 January 2025
-(Registered 12 March 2025)",3957,2025-03-25T12:18:36.82
 "Name: Ann Vickers
 Relationship: Spouse
 Role: Junior Secretary
 Working pattern: Part time",3957,2024-04-18T15:16:53.1466667
+"Name of donor: Stuart Leach Associates Limited
+Address of donor: The Greenhouse, Greencroft Industrial Park, Stanley DH9 7XN
+Amount of donation or nature and value if donation in kind: £12,000 paid in monthly instalments of £1,000 a month from 1 June 2026 to 31 May 2027, to assist with ongoing campaigning activity.
+Donor status: company, registration 14239649
+(Registered 1 June 2026)",4844,2026-06-03T10:07:29.87
 "Trustee of Friends of Fairfield Play Park, a registered charity that is seeking to establish a play park in the Fairfield Community for the benefit of residents and their children. This is an unpaid role.
 Date interest arose: 1 May 2024
 (Registered 9 May 2024)",4844,2025-06-11T09:53:15.6478907
@@ -8035,14 +8254,14 @@ Address of donor: private
 Amount of donation or nature and value if donation in kind: £10,000 financial support towards the cost of salary for a member of staff to assist my work as a Shadow Secretary of State.
 Donor status: individual
 (Registered 24 February 2026)",4527,2026-03-10T14:50:54.6866667
-"Name of donor: Richard Oldfield
-Address of donor: private
-Amount of donation or nature and value if donation in kind: £7,500 financial support towards the cost of salary for a member of staff to assist the work of the Shadow Secretary of State.
-Donor status: individual
-(Registered 25 March 2026)",4527,2026-04-14T09:26:26.78
 "Name of donor: Lord Michael Farmer
 Address of donor: private
 Amount of donation or nature and value if donation in kind: £5,000 financial support towards the cost of salary for a member of staff to assist the work of the Shadow Secretary of State.
+Donor status: individual
+(Registered 25 March 2026)",4527,2026-04-14T09:26:26.78
+"Name of donor: Richard Oldfield
+Address of donor: private
+Amount of donation or nature and value if donation in kind: £7,500 financial support towards the cost of salary for a member of staff to assist the work of the Shadow Secretary of State.
 Donor status: individual
 (Registered 25 March 2026)",4527,2026-04-14T09:26:26.78
 "Name of donor: Richard Chesson
@@ -8094,11 +8313,11 @@ Number of properties: 1
 Location: London
 Rental income: Yes
 (Registered 8 October 2012)",39,2024-04-18T15:16:46.0833333
-"A Member of the Executive Committee of the British Group of the Inter Parliamentary Union. This is an unpaid position.
-Date interest arose: 27 November 2025
-(Registered 29 November 2025)",39,2025-12-02T09:18:37.4033333
 "Member of the Board of the Conservative Party. This is an unpaid position.
 Date interest arose: 18 July 2024
+(Registered 29 November 2025)",39,2025-12-02T09:18:37.4033333
+"A Member of the Executive Committee of the British Group of the Inter Parliamentary Union. This is an unpaid position.
+Date interest arose: 27 November 2025
 (Registered 29 November 2025)",39,2025-12-02T09:18:37.4033333
 "Name: Alice Whittingdale
 Relationship: Daughter
@@ -8181,16 +8400,16 @@ Address of donor: private
 Amount of donation or nature and value if donation in kind: £3,000 received in monthly instalments of £250 from 13 December 2024 until November 2025 by my local party for use by me
 Donor status: individual
 (Registered 7 January 2025)",4776,2025-01-22T13:17:05.97
-"Name of donor: Jasper Cook
-Address of donor: private
-Amount of donation or nature and value if donation in kind: £2,400 received in monthly instalments of £200 from 27 January 2025 until December 2025 by my local party for use by me
-Donor status: individual
-(Registered 24 February 2025)",4776,2025-03-03T13:10:21.6179285
 "Name of donor: James Heath
 Address of donor: private
 Amount of donation or nature and value if donation in kind: £2,400 received in monthly instalments of £200 from 24 January 2025 until December 2025 by my local party for use by me
 Donor status: individual
 (Registered 24 February 2025)",4776,2025-02-25T12:41:17.3566667
+"Name of donor: Jasper Cook
+Address of donor: private
+Amount of donation or nature and value if donation in kind: £2,400 received in monthly instalments of £200 from 27 January 2025 until December 2025 by my local party for use by me
+Donor status: individual
+(Registered 24 February 2025)",4776,2025-03-03T13:10:21.6179285
 "Name of donor: Mike Wheatley
 Address of donor: private
 Amount of donation or nature and value if donation in kind: £1,800 the donation is received in instalments of £150 per month from April 2025 until March 2026 by my local party, for use by me as MP
@@ -8226,12 +8445,12 @@ Address of donor: private
 Amount of donation or nature and value if donation in kind: £5,000 donation received by local party for use by me as MP for Twickenham
 Donor status: individual
 (Registered 28 January 2026)",4776,2026-02-03T11:19:52.3066667
-"Name of donor: James Heath
+"Name of donor: Jasper Cook
 Address of donor: private
 Amount of donation or nature and value if donation in kind: £2,400 received in monthly instalments of £200 from 26th January 2026 until December 2026 by my local party for use by me as MP for Twickenham
 Donor status: individual
 (Registered 4 February 2026)",4776,2026-02-24T09:58:57.5333333
-"Name of donor: Jasper Cook
+"Name of donor: James Heath
 Address of donor: private
 Amount of donation or nature and value if donation in kind: £2,400 received in monthly instalments of £200 from 26th January 2026 until December 2026 by my local party for use by me as MP for Twickenham
 Donor status: individual
@@ -8279,6 +8498,13 @@ Date received: 25 March 2026
 Date accepted: 25 March 2026
 Donor status: company, registration 10755489
 (Registered 27 March 2026)",4776,2026-04-14T09:26:38.34
+"Name of donor: Harlequin Football Club Ltd
+Address of donor: Twickenham Stoop Stadium, Langhorn Drive, Twickenham TW2 7SX
+Amount of donation or nature and value if donation in kind: Two tickets with hospitality for me and a guest to the Big Summer Kick-Off at Twickenham Stadium, value £996
+Date received: 16 May 2026
+Date accepted: 16 May 2026
+Donor status: company, registration 03212073
+(Registered 19 May 2026)",4776,2026-06-03T10:07:17.0566667
 "Parliamentary Vice-President of London Councils. This is an unpaid role.
 Date interest arose: 10 June 2025
 (Registered 19 June 2025)",4776,2025-07-01T10:56:32.82
@@ -8292,13 +8518,13 @@ Purpose of visit: This was a fact finding visit which included visiting Israeli 
 "Board Member of the Centre for Brexit Policy. This is an unpaid role.
 Date interest arose: 1 June 2019
 (Registered 2 February 2022)",1593,2024-04-18T15:14:17.6133333
+"Role, work or services: Ridge Records - Royalty payments
+Payer: Ridge Records Limited, 1 York Street, Aberdeen AB11 5DL.
+Additional information: I am also an unremunerated director. Any royalty payments will be listed below.",1440,2026-04-02T13:10:39.3234537
 "Role, work or services: EMI - Royalty payments
 Payer: EMI, EMI House, 43 Brook Green, London W6 7EF
 Additional information: Royalty payments received in conjunction with Ridge Records Ltd. See entry for Ridge Records below.
 (Registered 1 May 2015)",1440,2025-05-21T08:01:53.6394539
-"Role, work or services: Ridge Records - Royalty payments
-Payer: Ridge Records Limited, 1 York Street, Aberdeen AB11 5DL.
-Additional information: I am also an unremunerated director. Any royalty payments will be listed below.",1440,2026-04-02T13:10:39.3234537
 "Name of donor: UK MUsic
 Address of donor: 33 Foley Street, London W1W 7TL
 Amount of donation or nature and value if donation in kind: Two tickets and hospitality for myself and a staff member to the Music Producers Guild Awards 2025, value £708
